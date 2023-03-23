@@ -1,0 +1,162 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: 85px 55px 55px auto;
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+}
+
+.header {
+  grid-area: 1 / 1 / 2 / 5;
+}
+
+.search {
+  grid-area: 2 / 1 / 3 / 5;
+}
+
+.meta-info {
+  grid-area: 3 / 1 / 4 / 5;
+}
+
+.grid {
+  grid-area: 4 / 1 / 6 / 4;
+}
+
+.sidebar {
+  grid-area: 4 / 4 / 6 / 4;
+}
+
+.main {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  padding: 3rem;
+  gap: 16px;
+  max-height: 100vh;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.sidebar {
+  background: #040403a3;
+  border: 1px solid #414546!important;
+  width: 284px;
+  height: 100%;
+  padding: 8px;
+  font-weight: 400;
+}
+
+.sidebar * {
+  font-weight: 400;
+}
+
+.sidebar h2 {
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.sidebar p {
+  font-family: sans-serif;
+  font-size: 0.8em;
+  margin-bottom: 8px;
+  opacity: 0.7;
+  font-weight: 100;
+}
+
+.header {
+  text-align: center;
+}
+
+.header p {
+  opacity: 0.75;
+  font-size: 12px;
+}
+
+.heading {
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-size: 42px;
+}
+
+.search {
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  font-size: 0.85rem;
+  z-index: 2;
+}
+
+.search input {
+  width: 100%;
+  height: 45px;
+  background: #040403a3;
+  border: 1px solid #414546!important;
+  outline: none;
+  padding: 3px 12px;
+  font-size: 1.2rem;
+}
+
+.grid {
+  display: flex;
+  background: #040403a3;
+  border: 1px solid #414546!important;
+  border-right: none;
+  border-left: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: auto;
+  max-height: 952.5px;
+  height: 100%;
+  overflow-y: visible;
+  overflow-x: hidden;
+}
+
+.grid::-webkit-scrollbar {
+  width: 17px;
+}
+.grid::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.grid::-webkit-scrollbar-thumb {
+  background: #ffffff;
+  border-radius: 0px;
+}
+.grid::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+.grid::-webkit-scrollbar-thumb:active {
+  background: #ffffff;
+}
+.grid::-webkit-scrollbar-track {
+  background: #414546;
+  /* border: 1px solid #ffffff; */
+  border-radius: 0px;
+  padding: 2px;
+}
+.grid::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+
+/* Mobile */
+@media (max-width: 700px) {
+  .content {
+    padding: 4rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    margin-bottom: 120px;
+    max-width: 320px;
+    text-align: center;
+  }
+}
+
+/* Tablet and Smaller Desktop */
+@media (min-width: 701px) and (max-width: 1120px) {
+  .grid {
+    grid-template-columns: repeat(2, 50%);
+  }
+}
