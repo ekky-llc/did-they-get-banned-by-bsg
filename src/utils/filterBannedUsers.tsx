@@ -35,7 +35,8 @@ export async function filterBannedUsers(name: string, date: string, type: string
 
   return result;
 }
-export const DEBOUNCE_DELAY = 500; // milliseconds
+
+export const DEBOUNCE_DELAY = 1000; // milliseconds
 
 export function debounce(func: Function, delay: number) {
   let timeoutId: ReturnType<typeof setTimeout>;

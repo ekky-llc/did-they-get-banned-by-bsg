@@ -19,7 +19,7 @@ export async function getServerSideProps() {
 
   return {
     props: {
-      banned_users : first_hundred
+      banned_users : banned_users
     },
   }
 }
