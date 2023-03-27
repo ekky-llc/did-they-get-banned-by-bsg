@@ -1,7 +1,9 @@
 import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
 import { useEffect, useState } from 'react'
+import data from '../pages/api/data'
 import Dogtag from '@/components/Dogtag'
+import * as _ from 'lodash'
 import { filterBannedUsers, debounce, DEBOUNCE_DELAY } from '../utils/filterBannedUsers'
 
 type banned_player_type = {
@@ -10,22 +12,82 @@ type banned_player_type = {
   type: string
 }
 
-export default function Home() {
-  const [ bannedUsers, setBannedUsers ] = useState([] as banned_player_type[]);
-  const [ focusedUser, setFocusedUser ] = useState(null);
+export async function getServerSideProps() {
 
-  useEffect(() => {
-    (async () => {
-      setBannedUsers(await filterBannedUsers())
-    })()
-  }, []);
+  const banned_users = _.cloneDeep(data);
+  const first_hundred = banned_users.slice(0, 100)
 
-  const debouncedSearch = debounce(async (input: string) => {
-    setBannedUsers(await filterBannedUsers(input));
+  return {
+    props: {
+      banned_users : first_hundred
+    },
+  }
+}
+
+export default function Home(props : { banned_users : banned_player_type[], count: number }) {
+  const [ bannedUsers, setBannedUsers ] = useState(props.banned_users as banned_player_type[]);
+
+  const [ isLoading, setIsLoading ] = useState(false)
+
+  const [ nameFilter, setNameFilter ] = useState('');
+  const [ dateFilter, setDateFilter ] = useState('');
+  const [ typeFilter, setTypeFilter ] = useState('');
+
+  const [ focusedUser, setFocusedUser ] = useState('');
+
+  const date_filters = [
+    "2023-02-28",
+    "2023-03-02",
+    "2023-03-03",
+    "2023-03-06",
+    "2023-03-11",
+    "2023-03-18",
+    "2023-03-21"
+  ];
+
+  const type_filters = [
+    'Cheater',
+    'RMT'
+  ]
+
+  const debouncedSearch = debounce(async (input: string, date_filter : string, type_filter: string) => {
+    setBannedUsers(await filterBannedUsers(input, date_filter, type_filter));
+    setIsLoading(false)
   }, DEBOUNCE_DELAY);
 
-  function trigger_search(input: string) {
-    debouncedSearch(input);
+  function trigger_search(input: string, date_filter : string, type_filter: string) {
+    debouncedSearch(input, date_filter, type_filter);
+  }
+
+  async function setFilter(value : string, type : string) {
+    setIsLoading(true)
+
+    if (type === 'name') {
+      await setNameFilter(value)
+      trigger_search(value, dateFilter, typeFilter);
+    }
+
+    if (type === 'date') {
+      if (dateFilter === value) {
+        await setDateFilter('')
+        trigger_search(nameFilter, '', typeFilter);
+      } else {
+        await setDateFilter(value)
+        trigger_search(nameFilter, value, typeFilter);
+      }
+    }
+
+    if (type === 'type') {
+      if (typeFilter === value) {
+        await setTypeFilter('')
+        trigger_search(nameFilter, dateFilter, '');
+      } else {
+        await setTypeFilter(value)
+        trigger_search(nameFilter, dateFilter, value);
+      }
+    }
+
+    return;
   }
 
   return (
@@ -42,31 +104,25 @@ export default function Home() {
           <p>This website is not affiliated with Battlestate Games</p>
         </div>
         <div className={styles.search}>
-          <input type="text" placeholder='Search for nametag...' onChange={e => trigger_search(e.target.value)}/>
+          <input type="text" placeholder='Search for nametag...' value={nameFilter} onChange={e => setFilter(e.target.value, 'name')}/>
         </div>
         <div className={styles['meta-info']}>
           <div>
             <h3>Release Filter</h3>
             <div>
-              <button>2023-02-28</button>
-              <button>2023-03-02</button>
-              <button>2023-03-03</button>
-              <button>2023-03-06</button>
-              <button>2023-03-11</button>
-              <button>2023-03-18</button>
-              <button>2023-03-21</button>
+              { date_filters.map((date) => <button key={date} className={ dateFilter === date ? styles.active : ''} onClick={(e) => setFilter(date, 'date')}>{date}</button> )}
             </div>
           </div>
           <div>
             <h3>Type Filter</h3>
             <div>
-              <button>Cheater</button>
-              <button>RMT</button>
+              { type_filters.map((type) => <button key={type} className={ typeFilter === type ? styles.active : ''} onClick={(e) => setFilter(type, 'type')}>{type}</button> )}
             </div>
           </div>
         </div>
         <div className={styles.grid}>
-          { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( banned_user => <Dogtag banned_player={banned_user} />) : '' }
+          { isLoading && (<div className={styles['loader-container']}><div className={styles.loader}></div></div>) }
+          { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( (banned_user, index) => <Dogtag key={`${banned_user.name}-${index}`} banned_player={banned_user} />) : '' }
         </div>
         <div className={styles.sidebar}>
           <h2>Welcome to Tarkov Ban Tracker!</h2>

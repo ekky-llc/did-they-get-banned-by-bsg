@@ -24,7 +24,15 @@ export default function handler( req: NextApiRequest, res: NextApiResponse<Data[
 
   const date_filter = req.query.date as string;
   if (date_filter) {
-    const whitelisted_dates = ['2023-02-28', '2023-03-02', '2023-03-03', '2023-03-06', '2023-03-11'];
+    const whitelisted_dates = [
+      "2023-02-28",
+      "2023-03-02",
+      "2023-03-03",
+      "2023-03-06",
+      "2023-03-11",
+      "2023-03-18",
+      "2023-03-21"
+    ];
     const isValidDate = whitelisted_dates.includes(date_filter);
     if (!isValidDate) {
       res.status(200).json([])
@@ -36,8 +44,6 @@ export default function handler( req: NextApiRequest, res: NextApiResponse<Data[
       }
     }) as Data[]
   }
-
-  // data_to_be_filtered = data_to_be_filtered.slice(0,100)
 
   if (90 > data_to_be_filtered.length) {
     const blanksToAdd = 90 - data_to_be_filtered.length;

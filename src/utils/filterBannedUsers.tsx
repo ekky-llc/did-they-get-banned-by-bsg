@@ -1,4 +1,4 @@
-export async function filterBannedUsers(name: string | undefined = undefined, date: string | undefined = undefined) {
+export async function filterBannedUsers(name: string, date: string, type: string) {
 
   let query = '/api/banned_users';
   if (name) {
@@ -18,6 +18,16 @@ export async function filterBannedUsers(name: string | undefined = undefined, da
 
     else {
       query += `?date=${date}`;
+    }
+  }
+
+  if (type) {
+    if (query.includes('?')) {
+      query += `&type=${date}`;
+    }
+
+    else {
+      query += `?type=${date}`;
     }
   }
 
