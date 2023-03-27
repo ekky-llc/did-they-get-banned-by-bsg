@@ -2,7 +2,7 @@ import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
 import { useEffect, useState } from 'react'
 import Dogtag from '@/components/Dogtag'
-import { filterBannedUsers, debounce, DEBOUNCE_DELAY } from './filterBannedUsers'
+import { filterBannedUsers, debounce, DEBOUNCE_DELAY } from '../utils/filterBannedUsers'
 
 type banned_player_type = {
   name: string,
@@ -43,6 +43,27 @@ export default function Home() {
         </div>
         <div className={styles.search}>
           <input type="text" placeholder='Search for nametag...' onChange={e => trigger_search(e.target.value)}/>
+        </div>
+        <div className={styles['meta-info']}>
+          <div>
+            <h3>Release Filter</h3>
+            <div>
+              <button>2023-02-28</button>
+              <button>2023-03-02</button>
+              <button>2023-03-03</button>
+              <button>2023-03-06</button>
+              <button>2023-03-11</button>
+              <button>2023-03-18</button>
+              <button>2023-03-21</button>
+            </div>
+          </div>
+          <div>
+            <h3>Type Filter</h3>
+            <div>
+              <button>Cheater</button>
+              <button>RMT</button>
+            </div>
+          </div>
         </div>
         <div className={styles.grid}>
           { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( banned_user => <Dogtag banned_player={banned_user} />) : '' }

@@ -37,7 +37,7 @@ export default function handler( req: NextApiRequest, res: NextApiResponse<Data[
     }) as Data[]
   }
 
-  data_to_be_filtered = data_to_be_filtered.slice(0,100)
+  // data_to_be_filtered = data_to_be_filtered.slice(0,100)
 
   if (90 > data_to_be_filtered.length) {
     const blanksToAdd = 90 - data_to_be_filtered.length;

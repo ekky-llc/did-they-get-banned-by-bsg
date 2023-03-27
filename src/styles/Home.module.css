@@ -1,7 +1,7 @@
 .main {
   display: grid;
   grid-template-columns: repeat(4, auto);
-  grid-template-rows: 85px 55px 55px auto;
+  grid-template-rows: 85px 40px 55px auto;
   grid-column-gap: 8px;
   grid-row-gap: 8px;
 }
@@ -35,6 +35,30 @@
   max-height: 100vh;
   width: 1280px;
   margin: 0 auto;
+}
+
+.meta-info {
+  display: flex;
+}
+
+.meta-info div {
+  margin-right: 16px;
+  padding-top: 4px;
+}
+
+.meta-info button {
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 0px;
+  margin-right: 8px;
+  background: #040403a3;
+  border: 1px solid #414546!important;
+  outline: 0px;
+}
+
+.meta-info button:hover {
+  background-color: #5e5e5f;
+  cursor: pointer;
 }
 
 .sidebar {
