@@ -15,17 +15,19 @@ type banned_player_type = {
 export async function getServerSideProps() {
 
   const banned_users = _.cloneDeep(data);
-  const first_hundred = banned_users.slice(0, 100)
+  const first_group = banned_users.slice(0, 500)
 
   return {
     props: {
-      banned_users : banned_users
+      banned_users: first_group,
+      count: banned_users.length
     },
   }
 }
 
 export default function Home(props : { banned_users : banned_player_type[], count: number }) {
   const [ bannedUsers, setBannedUsers ] = useState(props.banned_users as banned_player_type[]);
+  const [ bannedUserCount, setBannedUserCount ] = useState(props.count);
 
   const [ isLoading, setIsLoading ] = useState(false)
 
@@ -51,7 +53,9 @@ export default function Home(props : { banned_users : banned_player_type[], coun
   ]
 
   const debouncedSearch = debounce(async (input: string, date_filter : string, type_filter: string) => {
-    setBannedUsers(await filterBannedUsers(input, date_filter, type_filter));
+    const { banned_users, count } = await filterBannedUsers(input, date_filter, type_filter)
+    setBannedUsers(banned_users);
+    setBannedUserCount(count);
     setIsLoading(false)
   }, DEBOUNCE_DELAY);
 
@@ -63,26 +67,27 @@ export default function Home(props : { banned_users : banned_player_type[], coun
     setIsLoading(true)
 
     if (type === 'name') {
-      await setNameFilter(value)
+      setNameFilter(value)
       trigger_search(value, dateFilter, typeFilter);
     }
 
     if (type === 'date') {
       if (dateFilter === value) {
-        await setDateFilter('')
+        setDateFilter('')
         trigger_search(nameFilter, '', typeFilter);
       } else {
-        await setDateFilter(value)
+        setDateFilter(value)
         trigger_search(nameFilter, value, typeFilter);
       }
     }
 
     if (type === 'type') {
+      console.log(type, value)
       if (typeFilter === value) {
-        await setTypeFilter('')
+        setTypeFilter('')
         trigger_search(nameFilter, dateFilter, '');
       } else {
-        await setTypeFilter(value)
+        setTypeFilter(value)
         trigger_search(nameFilter, dateFilter, value);
       }
     }
@@ -120,8 +125,13 @@ export default function Home(props : { banned_users : banned_player_type[], coun
             </div>
           </div>
         </div>
+        <div className={styles['sub-meta-info']}>
+          <div>
+            Displaying {new Intl.NumberFormat("en-US").format(_.filter(bannedUsers, user => user.type !== 'blank').length)} out of {new Intl.NumberFormat("en-US").format(bannedUserCount)} results
+          </div>
+        </div>
+        { isLoading && (<div className={styles['loader-container']}><div className={styles.loader}></div></div>) }
         <div className={styles.grid}>
-          { isLoading && (<div className={styles['loader-container']}><div className={styles.loader}></div></div>) }
           { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( (banned_user, index) => <Dogtag key={`${banned_user.name}-${index}`} banned_player={banned_user} />) : '' }
         </div>
         <div className={styles.sidebar}>

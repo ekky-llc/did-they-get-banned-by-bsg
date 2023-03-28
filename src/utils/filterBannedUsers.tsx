@@ -23,11 +23,11 @@ export async function filterBannedUsers(name: string, date: string, type: string
 
   if (type) {
     if (query.includes('?')) {
-      query += `&type=${date}`;
+      query += `&type=${type}`;
     }
 
     else {
-      query += `?type=${date}`;
+      query += `?type=${type}`;
     }
   }
 

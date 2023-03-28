@@ -1,7 +1,7 @@
 .main {
   display: grid;
   grid-template-columns: repeat(4, auto);
-  grid-template-rows: 85px 40px 55px auto;
+  grid-template-rows: 85px 40px 55px 30px auto;
   grid-column-gap: 8px;
   grid-row-gap: 8px;
 }
@@ -18,12 +18,17 @@
   grid-area: 3 / 1 / 4 / 5;
 }
 
+.sub-meta-info {
+  grid-area: 4 / 1 / 5 / 5;
+}
+
 .grid {
-  grid-area: 4 / 1 / 6 / 4;
+  grid-area: 5 / 1 / 7 / 4;
+  z-index: 25;
 }
 
 .sidebar {
-  grid-area: 4 / 4 / 6 / 4;
+  grid-area: 5 / 4 / 7 / 4;
 }
 
 .main {
@@ -38,10 +43,10 @@
 }
 
 .loader-container {
+  grid-area: 5 / 1 / 7 / 4;
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   z-index: 50;
   background-color: #040403cb;
   width: 100%;
@@ -89,6 +94,11 @@
 .meta-info button:hover {
   background-color: #5e5e5f;
   cursor: pointer;
+}
+
+.sub-meta-info {
+  display: flex;
+  align-items: flex-end;
 }
 
 .sidebar {
