@@ -98,8 +98,8 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: #00a5ff;
+  text-decoration: underline;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -115,7 +115,6 @@ a {
   border-top: none;
   border-left: none;
   padding: 2px 3px;
-  background-color: #162127;
   background-image: url("/dogtag.png");
   background-size: contain;
 }
@@ -128,6 +127,14 @@ a {
   border-left: none;
   padding: 2px 3px;
   background: none;
+}
+
+.container.cheater {
+  background-color: #162127;
+}
+
+.container.rmt {
+  background-color: #271626;
 }
 
 .container p {
@@ -144,4 +151,9 @@ a {
 .container.blank:hover {
   background: none !important;
   cursor: default !important;
+}
+
+small {
+  font-size: 10px;
+  line-height: -2px;
 }

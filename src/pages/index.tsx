@@ -135,10 +135,31 @@ export default function Home(props : { banned_users : banned_player_type[], coun
           { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( (banned_user, index) => <Dogtag key={`${banned_user.name}-${index}`} banned_player={banned_user} />) : '' }
         </div>
         <div className={styles.sidebar}>
-          <h2>Welcome to Tarkov Ban Tracker!</h2>
-          <p>We're here to help you quickly search through a list of banned users provided by Battlestate games via recent public tweets. Our tool is perfect for players who want to keep track of potential cheaters they had reported due to suspicious behavior and want to know if the player they reported had been potentially banned.</p>
-          <p>This should makes it easy to search through the dataset to find the information you are after. Whether you're looking for a specific player or just want to browse through the list, our tool is designed to provide you with reliable and efficient access to the latest information.</p>
-          <p>We're committed to providing a valuable resource for gamers who want to stay informed about banned users amongst the Tarkov community. It's really important to have access to this information, and our tool is here to help you stay on top of the latest info.</p>
+          <div className={styles.card}>
+            <h2>About</h2>
+            <p>You've probably seen the tweets from Battlestate Games naming and shaming banned users.</p>
+            <p>I had a domain name left over from the Kidnapped Trader Event, and decided to make this tool to search through the dataset to help find the scumbags you are after.</p>
+            <p>This website is just for fun, and will only last as long as Battlestate Games keeps releasing these datasets.</p>
+          </div>
+          <div className={styles.card}>
+            <h2>FAQ</h2>
+            <p><strong>Whats up with the different coloured dogtags?</strong><br />- Blue dogtags are for cheaters, and Purple ones are for Real Money Traders (RMT).</p>
+            <p><strong>Why bother making this?</strong><br />- Got bored waiting for players to run into me on Interchange whilst I grind out chumming, so I'm sitting in bushes slinging some dirty code.</p>
+            <p><strong>The filtering can be janky?</strong><br />- It's just you, probably just a skill issue.</p>
+            <p><strong>It's not very mobile friendly!</strong><br />- I don't really care too much, its functional.</p>
+            <p><strong>Something not working?</strong><br />- You can try and drop an issue in the <a href="">discord</a>, if it's a big enough problem I'll fix it.</p>
+          </div>
+          <div className={styles.card}>
+            <h2>Roadmap*</h2>
+            <p>- Implement proper pagination system, and move the dataset to a legitmate database service.</p>
+            <p>- Implement a tracking/watchlist system, allowing you to add 'dogtags' to see if your report actually ended up getting a sus player banned.</p>
+            <p>- Add some more stats to this screen (totals breakdown, average bans per week etc).</p>
+            <p>*All roadmap items are unlikely to be implemented due to laziness.</p>
+          </div>
+          <div className={styles.card}>
+            <h2>Other</h2>
+            <p>This website is just for funsies, this runs on free services like <a href="https://now.sh">now.sh</a> and <a href="https://cloudflare.com">cloudflare</a> at zero cost, if you feel the need to send money to someone, send it to your charity or a local homeless shelter rather than Video Game tools.</p>
+          </div>
         </div>
       </main>
     </>

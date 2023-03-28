@@ -10,7 +10,7 @@ type banned_player_type = {
 export default function Dogtag(props: { banned_player : banned_player_type }) : ReactElement {
 
   return (
-     <div className={`container${props.banned_player.type === 'blank' ? ' blank' : ''}`}>
+     <div className={`container${props.banned_player.type === 'blank' ? ' blank' : ` ${props.banned_player.type}`}`}>
         <p>
           {props.banned_player.name.slice(0, 12)}
         </p>
