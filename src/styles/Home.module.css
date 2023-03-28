@@ -227,7 +227,7 @@
   }
   .grid {
     height: 100vh;
-    max-width: 100%;
+    max-width: 325px;
     margin: 0 auto;
   }
   .sidebar {

@@ -126,13 +126,13 @@ export default function Home(props : { banned_users : banned_player_type[], coun
             </div>
           </div>
         </div>
-        <div className={styles['sub-meta-info']}>
+        <div id="view" className={styles['sub-meta-info']}>
           <div>
             Displaying {new Intl.NumberFormat("en-US").format(_.filter(bannedUsers, user => user.type !== 'blank').length)} out of {new Intl.NumberFormat("en-US").format(bannedUserCount)} results
           </div>
         </div>
         { isLoading && (<div className={styles['loader-container']}><div className={styles.loader}></div></div>) }
-        <div id="view" className={styles.grid}>
+        <div className={styles.grid}>
           { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( (banned_user, index) => <Dogtag key={`${banned_user.name}-${index}`} banned_player={banned_user} />) : '' }
         </div>
         <div id="about" className={styles.sidebar}>
