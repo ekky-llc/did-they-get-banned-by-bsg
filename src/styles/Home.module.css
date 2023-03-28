@@ -99,6 +99,7 @@
 .sub-meta-info {
   display: flex;
   align-items: flex-end;
+  margin-bottom: -10px;
 }
 
 .sidebar {

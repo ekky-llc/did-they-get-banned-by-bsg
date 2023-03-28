@@ -98,10 +98,10 @@ export default function Home(props : { banned_users : banned_player_type[], coun
   return (
     <>
       <Head>
-        <title>Did They Get Banned By BSG | Escape From Tarkov</title>
+        <title>Tarkov Ban Tracker | Keep track of hackers / real money traders that got banned by BSG</title>
         <meta name="description" content="A web app to keep track of hackers / real money traders that got banned by BSG and Battleye" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://fav.farm/💩" />
       </Head>
       <main className={styles.main}>
         <div className={styles.header}>
