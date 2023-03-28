@@ -41,6 +41,7 @@ export default function handler(
       "2023-03-11",
       "2023-03-18",
       "2023-03-21",
+      "2023-03-25",
     ];
     const isValidDate = whitelisted_dates.includes(date_filter);
     if (!isValidDate) {

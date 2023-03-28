@@ -65993,7 +65993,28842 @@ const data =  [
     name: "fmitgurtaeLikjy",
     date_banned: "2023-03-21",
     type: "rmt"
+  },
+  {
+    name: "5la5her",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ev5_LO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YaLeiMaiKUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jake_qc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hualen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "theMrN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "killa-123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FreakyDonkey23",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GLY-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HEYUE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SprHo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiutuantuanA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YesImLv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "saohuayishi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zz_wine",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dafei-456",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "litangding_zhen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "swampthin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lucky2333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZuoRenWuBieDaGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eimi-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiburoncin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laoxiea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Stark4UU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuciferxSamael",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "roxy-MyLove",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dayzix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Egeme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luaas08",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4diz_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WINDOWS3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "thundercoklord",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Son-Go-KU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaohuaini",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gumeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sovaa96",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "supermanshorse",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TwigsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PatricKStar3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "better168",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIE-AN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uiR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ssir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yanghao0222",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0203--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JACKMYBOY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MihalSurkov_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suands",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dirge-Ben",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WKYXH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SweetFire_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PeakyScav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KFCHunter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Patrickstarrrrr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KEY688",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris1i",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FBI__TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VERYBIGPENCIL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr--Loo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hexliu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mkabaka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_DaoYan_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "grim--reaper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "techguy84",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QWE-XIANYU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NanMingXing-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AzeShuiBuXing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mo1ka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "niiKILLAdie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EmrecimYavas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kacperek2012pl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tian00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chenQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jianguajiusha22",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "killerquintero",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Upbeat21_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Euyihz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "super_Dxttt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DIVELA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KCPLAN_TROLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-snail",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HamiMelon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYanni-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kakaotalk-ggyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "COY_gellia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Marine_JMM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MadeYouLookLoL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rumada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Codename84",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "game_over_one",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oldsixnine",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Romaninnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jinx45",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Long_shotTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DabbyDevito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nbGhina",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTV-09",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_Wang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Floatingdreamqw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "U_UNicorn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SJ12_Luobo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mangfu-1622",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-logitech-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luyu666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "canilled",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M_174",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttv_CHAIRAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin-qinglian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOSS-550W",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nachoneko_dayo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BelleTing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shaoze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shiyuanlimei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M4SOPMODGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-LaoE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Snppen123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NnianzhedaoBSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nmmgr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laobai6612",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chaorenhuife",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ooooal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhishanmoke",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHJntm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huange-5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XMZKDH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blue0001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9Gunz9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Faputaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vsslili",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nekoimouto",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhengnengliang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChoraproABUBU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AIC-01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AK101-IKUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LesTur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Niko_onetap",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "07nie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShouBieDong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Saturday1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nikita_byungshi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shengtianbanziI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jrk1994_YouTube",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bastard_xx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DeathInSide_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wv_MadraBuile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KISHAKISH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tslipzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xcxcxzxcxc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2ProToLive",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Longcome",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xin_HengOvO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AD3XX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KYLEFATASF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shangdi4Ni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OWO_TW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XdNOooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luck_x1aoming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lxgogogo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ScorpionLailai-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wknmb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hao_Zai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-qingers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PGPGONE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "useone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCXYYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEDX_QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kete",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sanblue_o",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "itsAnsko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sun-7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Stop_the_habit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "avici007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Suzuki-GsxR750",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aooooooo_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shweis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DUSTDYM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WXYHKJJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lyeeee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoSong-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TimmyIsComming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gentleman-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AresHusky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoveMeOne",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suxiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hausmeister_Can",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xjustice4no1x",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlideCancel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYHelheim",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Favoritetree",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wuliaoluanpao1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Donshootman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "THSJDSCK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hiatus470TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Killo7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jjamlol",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeroMyth6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YAMERO_RORO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beijiao2000kuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CunBaBa0002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LvWAn-CN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilibili_HanCi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wiopfskkdajop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RubberDucky-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GorniyTainik",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlapperOfPrapor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mikky_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Latinalover42",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H4k0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QieLieBao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GabagoolLover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shadowkniks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WTFLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AGIES",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHI9999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Agent-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ForeverNight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ALXED",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xyp6x",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yunxier",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEE-RS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "meichuankuchaz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BAI124",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CQB_xiaohuanzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nightingale_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NanQingOVO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lsp-GaoQiQiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TT_Bacon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AL-LaoAn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrRubberBand",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WangMouRen7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaozhen-ikun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYIN_KULOMI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiueri",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Roi90",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "linxxln",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Andrewse",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF-1101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaybD_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZG666Z",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kuaigunkai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Alt_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIA-HAO-YOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Lrh-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Space-Liao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Landshart69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IBangAlot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TYqmlxj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Xcc-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xNefarious",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2yc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NGerr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "T9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ticklemeho-mo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlueIce_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wdza",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Born_to_kill_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LD-Haska",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CY_eazy_YYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AndreiDit_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lan--jing05",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BILI-Threeex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aRtyoBntyyo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Holzklops",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aotemaO-LL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DemonOfLabs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GHOSTSOFWAR-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DonShezzo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Action4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xWaIIe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DogTheft",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BaibaiN1a",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luowuhuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Modernandy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Monikadlc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "timingass",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zesof",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zhongyia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "plunder634",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Please_112",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "66Potato66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tiantianGOOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-Gai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Key0725",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dawalx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yernaz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-FY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WoWtcger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV88",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YANGGUANGHEYU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cc-Qf0809",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HHKDSM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ILOVEMIN3RS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fish_StickZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-xiaohei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Joshua321",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OLD-SIX-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ball_licker69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DummyMumpy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tingfengyin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bilibili_weilan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OP_SHKILLA_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "thecooter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SXFF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DACK_KING2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BackGr0und",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hammond_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YYY12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lolo2233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PolarBearCrazy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cuttler_Beckett",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "o-Oyue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Diorstoto",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZUOGERENWU1213",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M1KTA_IS_BACK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C-G-Lappland",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dontplaythisGam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ta-pi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OldSix-808",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TaRIROVA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mandalorian-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-MonB-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RaiceGamingTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D_aemon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StanLee-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RedModz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KioskTarkey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cheezcake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shabitowpi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aimei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MLZRC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AGuuguu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperHanqin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Colourtoseesee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "senhow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fw1K",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Capta1nChan_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ordinarymind",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ProphetForever",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LZZJW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GN_ColourSugar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIAONM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RagingSumo_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FlynnWalsman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bingeYYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "V50-SeeSeeXian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToTDean",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CcALMOS_W_Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NIKGENEBURG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bin_9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yitengchengtel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTVMonkeyman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoxiaoBT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ghost_TingLV_95",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "didibieshawo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nccwss666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WhyYouBullieME",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZZZZZZZZZZZ_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IpowerL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DGSG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GangBen003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NoMercyCHILE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blackey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaLao-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThotWithNoGsopt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Milili",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lexus-Future",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chadbunger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "15H0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UNCLESOCOM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "F-Alwayslove416",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sanitar557_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J0W1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FBI1911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "konggedoudou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SNEAKSTATTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ReserveSlav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "muranran024",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ilya1116",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Baozaoludashi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaobudian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Niyagari",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "harveyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Konnekk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LLauqSTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Hustle_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IAMDUM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HQS-DT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MKcocom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cocosaobi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ilikeyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoonSquadKNIGHT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zhuofengying",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "diaonimachouhei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AiErQiYa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gansujysp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Earl-XY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xyyfz301",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhazhayuforever",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iamBB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cyclone630",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Snoop_Cat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mocacaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fillmpped",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NKaLuZhi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "danaigou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imboomberman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sdajk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VladyDaddyGizmo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kusoaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MINGLUOYYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fdsall",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PRC_Sakura_3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "penutbutter123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YaOri",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0951-Hjh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Leo-kill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tailili",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PPTXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thirstinggg_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "locky7777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "7lang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-yanyan01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ALPHA000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M1AdaisukiLM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CastroCTL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luanwu520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GenteDeMierda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ironically",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "callmezachy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gluharrr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "An-Dyin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Flavius1122",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AvonSeller",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kekkersw6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlippaMan808",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHADOWARIOR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nmsl999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-YYYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SirDoinkington",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LigmaNutzzzzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WildesSchnitzel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yonkles",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_glinomess_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "like_cake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KJ__Fox-HR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NTSF-White",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "haidaoxc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rommel_1116",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperVW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zuorenwuboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CYG-_0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JingHong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIE-SHA-WO-XX1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xyqgaj110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kRYSTT4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BuCuoXianSheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nichougejiba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HE-DWX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M5YaNo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DuoYu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jackoking",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BingFengYoooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pangpang500kg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "youLing--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vcTnT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "godCci",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ProlificNades",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MZ-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "6----HAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yurfsds",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fengxian__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yitianlongfuwu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuowoBifengHao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cymaikanmeinv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JICHENGA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cwaigoryskitten",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealHiRa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kevin01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OTC_Secwow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StarLight7375",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "slevtard",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ruin-D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BPRD_BIEDAWO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Sailor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bwssybopper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FPS-NO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "akwsad123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TwoijSon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qinqinzui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dawn-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nabilfaitout",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IskraDaddy_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DefaultInventor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Back2LobbyG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "6liduh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kefbeef",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MerelyAGhost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "P765",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ka_cc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Flabbergasted_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sp99ky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "monthescotland",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Karvector",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wanan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mortdeux",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZunYunie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUI_PING_JU_BAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arthur-Lyh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zl-Leon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-ouyijiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Lay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Darktenshi42",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bliblihangxian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hazard10",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-BaoGe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Huanghuang_GeGe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "weiyouzhandou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kanamiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kylin-Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-kill_me_229-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shupian17",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WOCnijita",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moyu-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shrap10Eater",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheWickedMan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qeqe999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xl-07-21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "INVINCIBLE715",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FrostizleTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "COOOMGUZZLER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shuangmaweijia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XFQAGH1314",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cn-laosix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuanTouYing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "buhuiwan_662",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SaikaKawakita",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "quttroace",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bcxiangchiyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jiujiuwo_AOA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShuaiDe1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheAware",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jsby-MaZu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYin-AnWen88",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qiil",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Airspy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-baigei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "loserbiubiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KleinerLuemmel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Back4Streetz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StreamSnipe_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BE_koysoilman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Obadachi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cutchie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I_nut_to_boys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ESAD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Little_Joker_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoughBoizz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HoodTrappa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LearnToPlayKid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Swolbyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "L365",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDAWDAX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UR-SUGARDADDY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xinlingzhe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhupai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ainm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-chenghaod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAZYMIKEE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sfewsfcv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Seven7_God",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Banana-Barry",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DCF_2D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kai_gua_sima",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZY-MQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9736",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "btcplsupup",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuNewb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GLS-Kele",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fatcat__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Frager23",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dy-xiaolen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "416slr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mischka-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PigPigStupid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NMP-zyw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SKY-MZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "996iiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ECFMLBN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "taizouxiayige",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LeslieChen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BAYERN25",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KALAMI6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuYaTTv_miru",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MVP_ONE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ivndmark",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TiAmo-cccccc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cat_Eat_Flowers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gaochengcheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tasty_BigPipe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GAI-TieCHUI-MM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CD-LEI8866",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_lSTREAMERl_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mryuan0504",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUALUN666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dalaobieshawo01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mc_Liuzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Riscles101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ScrambledLegz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-Julie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cucu31",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bomjara228",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FoX-75Hzzzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WilsonWasHereFU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sadokast",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BallGoblr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "eftmaster",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ya_dobryi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GBGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RobertDowneyJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShadowfaxXing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Streets_Police",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIEDAWOXIEXIEOO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nancis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiangYuani",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sunday_431",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ajonynike",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lionel_Chen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuaGuNiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TuDou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yri",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "o7o7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yingwudady",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DothetaskNokill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lilstreamsniper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Iron_Headskill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gagagai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jUNEM5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ctmdNKT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaobaissssssss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PREDAL1EN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iSalewaGomez",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luping_muer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cutedora",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Salavinalo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "naloxoneandfent",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ff520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SisterFister09",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "11_KK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Truman1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asa7ao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Impartking",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jsnxixi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cang-shu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "T08C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CynosuresA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WuHenDeYiDao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TapDeDome",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JakeTehPwner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyu-zhengwei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SQ-Sunight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BuriBuriBuriBur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "eft-fastdotcom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WOWXCX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aqiao0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IHateUAndTarkeY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "evosrevenge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GokuLord74",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WaziQQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dy-fanhua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PoluPopie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chen43zh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CosmixFish",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MPGfastman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Canzo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fskxh1numk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChangshuJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LengQi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AHHHBobbby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lcessss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sweet-bullet",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThatsxMadness",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asuiyaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AJJYH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "feng-zi-5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DonQuixoteVan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Akill9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigBCheeseTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ba-Le-Meng-Gan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Baigei-dacaiji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "simonxs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aaaaxaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "P-P-P",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun-falling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bigdog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImOldSIX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Isomerizer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beyondist",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ezwintoday",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiktok_Lei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JieFangTAI_WAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CRour_buly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nijibata",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lo-Lotus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SPTcave",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tornsoul",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China_Bobi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OxygenSheep",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZX-kjt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rinipiyanzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AZ-Father",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ItsReese",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "scottenllll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Andrei5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KS-TV-chaogege",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TGM002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ai-Head-eyes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WARCRIMEWALLY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUCKY-0416",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MacaBaka-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ramboricky69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GGoooooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shaildq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rizzasaurus-Rex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wo-hui-pian-yi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Soldier_Mudkip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tter17",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlayzWipeLobby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aidgbshiou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kok0Jamb0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MJ-9295",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImBadMB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IL_BIGMANVIBES",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUA-HH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KNTXT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sunkiiiiiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHANIME",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BirdmanWood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NNS_Cian_Ben",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NQMGL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YiPingKeleee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PaulWalker6969",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "peaceandloveOvO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GLDizon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eat_eat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RicesShower",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91TV_LiMuOvO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Big_Pipe_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ber-Ghost-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iiSniperPanda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DuDuDudull",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yannick_w",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bailemen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rider921",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pyatisotyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Quiterie_01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yi-yan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZJYY999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beibei867",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuhEcho",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FasToMas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_silent_death_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YE6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyaiqiyi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qi-hong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-kingwang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shanksks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pluto-009",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dale-CCTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LLLL0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DuiZhang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiuPing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CyberdyneSystem",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZACXC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BDW-XiaoQi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Merkaroni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ho_Lee_Fuk__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K-ONNNN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "f1OBMW550i",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bugorbing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shaildf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheNightShadow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Back2TheLobby1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "thatoneguy223",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sosu_Hila",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "karavel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chen--Max",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sqwiggels476",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShadowFenrir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pkok0079",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M4uno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Newtayper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lunan006",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Archimiedes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NASA-NAVA-VAVA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NEXTJNTM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RizzMysterio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Da-g-bie-da-wo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Machazns",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LanXianZiTeng--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Criminals",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xinghui123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smartqueake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS--Rye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RTX2080S",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKKYYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuoRen110-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GB_007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AbsoluteSquiddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shamofengbao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wizard1029",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAB_kennyS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikunwudi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "happyluokuang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mingluoluoyyds",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kaixinxiaomage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AI-lucky888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C4z1nnm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "heiziyimu-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZhangXinMAX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "steveteen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Konvi_cka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JianYa-7480",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CRUNCHMONKET",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Guiwang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kaiguanle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FnSKaaZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chengxinshangre",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dy_Gezhu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QAQ_Carl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NA_Dishwasher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Naive__ghost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BanShan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EDG-Coco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JK_King",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ORZTAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAleks12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iKun-ball",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XrMoZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lintlickers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rprtmecuzurbad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Threeeeeeeeeex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zilya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QC-DGGGGGGGGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HG_ChiSheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_Bulka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "large_weiner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hulichs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ClassicalClemi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cnmguabwqad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JUNGELIUPI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhouzhougaoshou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JHD-QiQiKF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaxToxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mengxingxin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUPERQWQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris-Femto",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lzk0214",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_xy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhg-404",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShawobijubaoI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kabutackk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ROCFFFFF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ameng111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Batman-Twitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dugou_yyds",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "idean",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gin-ToLiveTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91Guoxiansheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nononii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RitaRossweise",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_9517",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xrayhhhhh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wrightzhou-N4A",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YiZuo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TwidsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jojoking0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mollyruffle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qudaiqinii1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TiaoGe_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PRISONERKIVEN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LXLLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SnipDajit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxDemonWolfxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Key912",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "brandonbrootal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "acctavisTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-guaichi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OnThatPack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Timmyboy007-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Althars007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WalmartGlukhar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Koriknight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qingmusan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Monke554",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zym110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wkfjkmko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EDG-GaoQiSheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wudaa_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealIronMike258",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "x1017",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nazarov0948",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-GikkiBrikki-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IHasThighs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PrinceVegetaTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2431a",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuGuBrid__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "paxialaibuda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aye-yo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YANBER666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "j8tkf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thepassing_a",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rxza2013",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zero_ZM3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suowoluping",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sonder0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kik3500",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF-WuGan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ValPyen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VOG-KUKE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lizhengye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hwhao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CEO-BOSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WithGLORY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dyin-nuanyang_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aktm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MengXing_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xanaderim",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SAQIMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tabooood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WhatAreScavs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaddieSpanksMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuoWa-4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HaveNoFriends",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ledx-12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "by_n1ko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M-Tea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "godbcm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotFound405",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dejaood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM_GuzzZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "whse21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiuwu95",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IceVoid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LocalUwUgirl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "N0unt-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cjjchaonb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mimi-QoQ-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "szdas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-biubiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "--SheHuiWang--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PepeYaga",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheVoid_123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fountainbro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bilibili-LINK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AnnoyedLink",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2022SubaruBrz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zi_Ji_Gun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2ColdSkorpio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ystxkz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SwoleOnHenny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GetGlocked",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "McGabiwasgeht",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "B_V_V_D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoOutsideKid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM-roll1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beather2008",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91MrChuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RysonB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lkjun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FWFAZ-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-6300",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tuziyulang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Biesuowo_CN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kleizhen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BS-BP-YYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "paigudada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FUYANZMYAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOXIMOXI000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YSDCNB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DSR_Hkinger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY_xiaopacai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YaErDaJJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kabuda_001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EFT-Tester12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fxcrown",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LookBehindYou79",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MKCKAR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JOKERWORK_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIEHE2000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ydwcolour",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN--5959",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOXX121",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Boom-Allen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cedars",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zilohs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "toutie_666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dontshoot_me",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CSFCSFCSF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zeushhhh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhiheng04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rrrrrrrriely",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Miky_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-erdong-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uhhGoofy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YoungShaft",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Green-healthy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LaoderB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bai_Lan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WzZz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JimmyNeutron",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOG_BingGan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mao_Panda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SzeleczHUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9mmpstUser",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "muranran029",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BishInABush",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cscec-zjkg-zzy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAO-LIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BackdoorForcer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yopla_KR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nosiar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "REZZ9888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "seonex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sqiy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "siniand",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Laxixiaodui_AB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-LUNCCG-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JWCTD-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Potato--FOX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guhuo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jinlunfawangNB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lupingjubao-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ara95",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ebrietas98",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "spencer23",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JAXTON__J",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Reisz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZWSGOGA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SheLB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Xiaoni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kimi_Jin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GodXf1ght1ng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAKERICH1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TodesGarde",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Actor545",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin_S-WangYe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Krit1kal_g0at",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lang-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FalseElysia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WIC-PDD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trevor_TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JohnTarkovIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ICE_Killa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HAO-229",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mundusk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chen-ergou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ibuprofen800mg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MorishimaHaruka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MMC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OldDeus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "98k_shot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrsYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ctrlA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Scav_AHsy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nikita_roqudtl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-chenhaonanz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AngelBrook",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jiopipipi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "diandian111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "littlleida",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BARhatnieTyagi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bieshawoQAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WEJUSTCLAP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bigjucie101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABoBrooKi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Peacekilla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "da1monn_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZIWUPIPI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JFHDF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HOTAS_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Angel_2rack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sg4321",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tarknado",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "336C3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "miximixi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wagi_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KaiKai777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C8laoma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FenTa_Q",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WANDD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PinkJoker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lechia-cn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DA-TOU-JUBAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "18GOD-TianB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ay6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "in_ni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEE-026",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bladesofaiur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fredboompa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1Tc-13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KongChengMeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MasaTech",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tkf-apple",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "U21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThealTeamThix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JK-kill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Beef_TaQuito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Onely-00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WMGoku",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jintianchilema",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cancan_needyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "N_zsk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daddyervis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ledx-Sang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jueduiyazhi_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xtthebest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gm---0359",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FA-TFoxz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RAT_WithThe_GAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOXIAOXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DavidisOffline",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "7inchCurvedBone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoggShineQc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dade-jiushi-ni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gzynb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IhateSkavs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ckDUCK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr-XIAOSHI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Beungoose",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Serverpatrol",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "THOMASDEAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kkpi_HI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PIVOMENTAL_YTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mythsaverage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ilkart",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UnKnownMFTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SteelRatReturns",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "An0ma1ous1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlexCerber33",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Naflaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZappRenfro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeavyDRD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wenxiaojie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Daluth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FUX-01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Powerstar_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MR_Seven_Two",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LonngDongSilver",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOBxiatian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sournse",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZCYHLL99-CHINA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChimpCream",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SilverWarp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "superAsura",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Baoz1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ANZAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CZdawn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iKun_BenKun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1kiila",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "coking",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SXtkf1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nitamadasiwo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daozaididi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yuumi0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mordaciter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LazyBear111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fo11owerbot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-246",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WAR54",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chrispy1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "doraaaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CXK-NB666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wangxiao6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_llama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OhhhhNooooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ji_gaboojohnson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kihny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZGzuiniu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "creamyboi01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YY6Z46O5-HENIAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GiTMoGiO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TomatoKingg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "APPLENO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lionkk_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Veni-Vedi-Vici",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouGotNottiBopd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NKY3000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilibili-godcan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GreenStimGaming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xia-ri-ningmeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yugsf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JNChief-117",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BabyDugg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RaceDrip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlondieZzZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Slinkie_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rkskek5994",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GHS-lilili",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "djb-yyv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AILW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wnhh1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GeorgeStPierre",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YkYkCYN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LJL-Dxiangchang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IridAurora",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GeZi-98",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Babozar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "giganickher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WeirdPlayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fhuua_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxx_R1ck",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yuguoyidao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fibniown",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HsiaoHans",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aspl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hpppppppzzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Justice_Loba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZhangPD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxxgamesz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bastard_xy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CustomsCombOver",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HAH-Su",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-YLsXlY-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QIFEI-002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "struggleless",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttvWoppahh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NiniXx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilibili-bsw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zzzz0090",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlurpAnaIJuice",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gebilaowang6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sparkzzzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mynameis61",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yushkin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Itadpold",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NOTA__RAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Coffee-eagle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HaoYunT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pisya_colgan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fentanyl_Floyd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FBI-KTTZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DatukSeriNajib",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moteaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BrownCharlie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cesear24",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IceWallowz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAOYANGPP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MiyaSa1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShenMiRenX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LVNDMARKCLONE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Annan_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BreakMyHeart",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "syft",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JBH1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_YooY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiexinfeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shiny_0_0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WPzz-uu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shouhumaoqi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "995W",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiange-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woshisonghuo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "moseQAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FPP-NC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "868",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XxXxXx_ii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACCELATION",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SKmyDiK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FriendlySobe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guimingyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AouoA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shaonian125",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouY-Space",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TickyChaos",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Meike",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yaharim",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "__darker_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaYaoGuoLiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-D3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuYa-AKai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wangan2005",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Deitytom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DONTKILLimlvl14",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LegionerOsi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liangshenFree",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-zuo-ren-wu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RASH_MK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yusaku_soma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuyFvTbk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xXMrNiceGuyXx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch_Forgery",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TruElysia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smlmmm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Barter_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Snack-Harlow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NowISeeU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM_LiaoTian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Postyzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY-0825",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Loftus_hero",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Looter43",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mondazoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trudeau_GOAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xWHOTFx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Allesknner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CSCEC-YJ-Arthur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BoughtNotBuilt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "phop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "d2ratstinky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DChauvinsKnee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GhostedDeathX6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HOOIX-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ivanovs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mimiku",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AQ_Jiangxb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BaiGaner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Endframe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SmilyHzxX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pi-pi-xia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF-Adidis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "super1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zero_11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HBYX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jerry44",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kiwamu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Soemmeringii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cybermaomao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GORDON000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OuO_6z",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Libertus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYU_LINDAISHI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_R3negade",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bet_On_Me",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CallMeSloo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mallcop21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JUSTLIKETHIS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LongBin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "obenan2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Defnotjosh52",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WanBaoLong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tekkenBLAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NineCattea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tomaot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOOS-xie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SAKURA-NEKO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SL-TUTU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QvQ-MuEn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sleepcure",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tianlangxing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_TheCollector_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dy-nb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "App_STore_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BiLiBiLi-Father",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wasdlerIsOrphan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LABSDADDY777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYU-CH052",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KnyaZ_WagnerPMC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-CTGU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Foldilocks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Babaika13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hedygreen233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-CooileWw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Manjusaka_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MEGASUSY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EdenLux",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TRAXIBOI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MattBundhai_OT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zeroreo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HideInPust",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XING6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dyTV_xialig80",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoyaoyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RED_BULLET",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "baichess",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "321sada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tanugx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZX-2000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wetwipe_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sui--Feng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aaisi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laobao666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlucardGhost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "141ACTUAL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Marauder--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_RatsNHats",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuYanPW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xyshuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lupin-wangy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKAmaQiangGuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrKO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Goncilion",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GeBiLaoWang04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YingYingGuai_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NONONO66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DinnerJoker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Happylove2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoqiang-6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "basteth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "6665c",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bartholomew4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KsubisNoTruies",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiveInSolitude",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yaozhangnaozile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HiPii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SoulCartman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "taishangwuqing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cn-uncle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheMotray",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AcottYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KenUSECMyNuts",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J0hnny04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ElTurkish",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fence_mystuff",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dnmdl6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lsp_sacad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-Ywurunci",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ruskyblyt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zexa49",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Docovski",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tannerreno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YBLYDOK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yEyF1946_DOUYIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SweetLikeSugar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rileys_AI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MODER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OIDlOIDlO_0000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ratception",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YourAimIsTrash",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mengxbuaodawo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XL2000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ORZ-7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xopowo_luobu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKILLLaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeeShockDie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wo2336",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VULCANFALL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Account42",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "im-recording_u",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Diplomat-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Waxgourd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gam1ngXD-V-SRX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HORRY-SAM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "king_bot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dankedaye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2emou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhangdeshuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ultra-Seven",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOSS-MuZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiKKA1348",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WishUWasMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Baozai051",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mad-ABCDE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "God-Langzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AllergicToMoney",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jaycru11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yazdan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GFJGHCGHF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlikeMOk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LIUMOUSIYEYE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY006",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DisabledRodent",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VAC_BAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "17Good-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MikazukiYozora-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KOnoDIO-JOJO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LATIAO001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NutflixsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AttackC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "garny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACID--kunlan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sasha_Tarkovich",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "modomodo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DFZDQ8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIRST-CLUB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ITSLILTOP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "teabag_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GiuseppeIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UNALIVEDN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dmforwebsite",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "T1tansArmyGroup",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gurbbynetty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BarkyBoy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lay811",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chickeny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoNamu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Noob_Killer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BILI-FENSHOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HansF114",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuYangSAMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TANGBAO101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bob-Big",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JJDLKI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Letme-cook-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RE-BanShengNian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cfnmqb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHOUSB_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GiraffeNinjaTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sincereyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tongzi010",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RIKUJIANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JohnWink_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ONE02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PenileInspector",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaowangbagaozi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kuxiku1021",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Keyter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "putsch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TrenLoverr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Audi-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LingDu9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "69KMHpeakSIIUUU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Yuuki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhizuo-ren-wu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9277__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mjwoonnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GONZO666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PLAlaopeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LV001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DudIceCatKite",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mkbk11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-xiaolin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kurony",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TacoBender",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gimmesome",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HotRodLover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rz-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WexfordWelders",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Mr_X",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VodkaSodaMan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Baboben",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0x51D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sweet-A_OXO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOxOOOOOOOO7829",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yichen-0615",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Absdown_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ROM9801",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bielaizhanbianp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AoTeManLe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VMA1N",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-carpetmuncher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tree_story",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lokiTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CuckN0rr1sTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pO_Oq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yue_tong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "donl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "slowburn1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MMMERCY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_18G",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tagou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Azzg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Running-DFoVo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ferrariwade",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "by1996Hu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KEVINNNNLEE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biedabiedaxiele",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-Ale",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LOOT_LORD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YYDS-BeiMu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kaioshin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KIDXING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-xupengfei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XMB-Ferrari",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Birdeye_977",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "manozito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiangnan55-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "USEDNANNAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EZ1V10",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ATTACK-2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chiefstabba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "blueberry2023",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NNAAAAAAAAAAAAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dy_Dsr_yapi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrFeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JuicySlays",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KH29",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xaiochennn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mynameisfrank",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBao-Dy1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BILI_DJGUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mihoutor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AEAE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "asusua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kkiyashou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CsBaisha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Coin111zzz_DY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_Verizon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FOVER666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dontkillmeokay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I-Love-Kun-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GRIPG0BLIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheBavaria",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotCoffee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NAXUXU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2137_JPII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lcx-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Prime666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigdikBrick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yippieee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "frostiing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MakeCPLegal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lisamll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiongZhaoQiWu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sjdsx-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "siwangdaren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYu_Mo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AscheF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KBZ_YuYouXiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lifetime_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kevonzhu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Riesling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Subnatica",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiangcao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OP-Klee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TT-911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ela1111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAA1666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Team404-UMP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Leodspider",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaolaohuyta",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fcjsb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MilkSengan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Daricc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Poiuyque",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0Mu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "229suoni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-Kinght",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dawodoushigua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guyu8848",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr_FengZiXXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SanchezColdWar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ayem",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "An_y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TDbai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shame_the_goyim",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SML_FengQi_TTVV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "loveing-XY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "THESHYA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DomesticMuffins",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xklng1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aran919",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Heysaner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chldrnSniffr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlanTSL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CoolFlame",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ETO-1827",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EliteMarineV8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HYcc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TurfMcGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ApoTahSah",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yy1352",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SoftWan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TaskManager15",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DontComeHome",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KingLuisXI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VenomOnSage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yyhh1011",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sdFCRR__TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zorntler99cm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TbI_yMeP_HAHAHA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "angel-jack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RC77D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-DADIJUNFA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NykZyl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoButtonhle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "28DAMOWANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheTarkyShooter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Elysia_Eden",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BaoBoLu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhenzhenlizhi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OGsoda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AURORAZ1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaomonv-QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UZIDD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheMagoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-xiaoxiaoyi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TryHard_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91_ikunSir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RampageA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zitiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIDOS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "eweew",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY-LaiJing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKPI-MANGBAO998",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Enforcers_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zhang_PD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Botnang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MakiEditsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wyzxxcf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Writedesolate",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AI--dingyanzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "THXTJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Darkymeat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zkaaai_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AbstractLife",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chic47kk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Flare__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hazeeee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GrimyNutStain",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yeaonaiwohe11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "klutzyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TtDddCcc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOY1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOLO_MAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StillNo314Key",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I-love-kunkun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HolySpimoli",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YaOruMenyaYebut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Snow_ClydeWF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DagMus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Multive",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BumbKilluh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dontkillit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HotEmoGothGirl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuRou-Yuneko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pepppigo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zezak-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wizz_i",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MMZHLB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sashaleo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MMPDZZZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaximeJohnson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "__GbSM__Killa__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dismeno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MengYingBai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mynameisxiaojie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LeninsSNation",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zhixinzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mailisu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "STcheng-MUA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OuO_Shadow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MZMgzs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chari1e",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EinsamJY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asnna",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GleenNan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHENGREN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Unkown_switch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WeiYiru002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ai-biubiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-XIAOJIE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EEsam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "doinitforfoenem",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zlyj1314",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Unicorn--L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Slayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch-Lun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rastymiss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YTjay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sbbbbbbb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "plug-inno-shoot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "murphyda_BUG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WeAreAtomic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sweet0527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EurekaI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CallMe12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dawosiMuqin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JabamiYumeko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I-AM-THE-ASIAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTV-XS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wooimsobig",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DEFCON_X",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CahirMawr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Touchmytoes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KATANA123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYinTV-DaiHao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0_o-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Apocryphaun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIAnike",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ExTreM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOURFATHERs69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mmmn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MAGA_Enabler",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LysolDrinker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PARKJUNGHEE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ESTRTT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HAOCHONGYAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bili-xiziyan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wik-C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PPXnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Sa0n1ma_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrOneHand",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YY6Z46O5-XXiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SniperT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Y-Krant",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YueBanXinn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CherryCode",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDS666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "duidui76",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBao02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Huge-roots",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "June_Huasheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PingKing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cipher01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "quandan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun-110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sniper_deboteco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "STcheng-MMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KEVIN996",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dagebiedawo99",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CJ-TIANBA-PP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NJT_SB_CNM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wudinaibaba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CSOOBY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StickyFR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EMS_Der",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "De_Pack_Mule",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Azhai_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "warmhorse",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Billbill_Aurora",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KopirayteR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Heb-ztb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Washed_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mengx1nshashou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LZTNdeyidalipao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mengxingQAQ5555",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Msgid-G",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JammedRam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NgDuckaNgDucka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "makaboka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LaJiaoLaiLai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "granttetong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dreamon1ie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bingkuai03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuOO_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Christne",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mONKEY123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bassper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Centegix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lrta",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_uh_oh_bucko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttv_syphons1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealIronMike253",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Beluga-cat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1_4_1-PriCe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wrench-godc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-Alleyne",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BGron-ty7086",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dengswniubi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KwiiVtuber",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Leifather",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiao-QVQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beidonglai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SpongeMaOmAo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOXIAOMAOMIYO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Usekeysgettrash",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DarkSyn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-XXXX-XX-XXXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nainaidejimo123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CanadaNO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Grimm_type",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RuoM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Diao_Ni_Ma_de--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sm0oking",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "crazy_chen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kaerbuka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIANGCHANGMENG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RIPNightVoyager",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TommyDadadiDADA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SunHaoxuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUPING--TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LancerArcher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PinkElysia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lifemovie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lipinyuan1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GUANGZZZZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShanXiaMeiZi9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrGhosting",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "The-rat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHEEZ-IT2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M000ON",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Preece94TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-Skydog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "coolkiller-0001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woshiwaig",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_Qindui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cike888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kkpi_hihi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GXL-xiongda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LineXz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Big_Cheese00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KF03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IAMFriendlyGuy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WIVIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HangNickGers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NiceAimDude",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "The_Tism_Goon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SA_goes_Burr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BawzaRitchie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LocalHotMom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alez1337",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mrzxzx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-lwl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IPMartin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404LiLi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGeBieSuoWoLe_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ATM_zk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luckyyyyyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-LaoDeYi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ARAM-ONLY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "langxingfouxiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IPHONE23",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TMhuaT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shiny_ruo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Br0job",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Deja_vooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CH-137",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUVS1S1_CN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuDaPao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pao_hui233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Slesarich6991",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_Seiji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rick9923",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuQ_Kiss_YuReN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Matthew0_0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OD--OUQI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xinguanfeiyanya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yydstvo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smoKKey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Auroxaz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wat1sy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PureGreenPlayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bee-xiaoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MONAI2333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thing_S",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zuidanruo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Potato_UNV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "urity_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilbo1121",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dertu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xunliyizhimao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D0C-HOLIDAY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Glu_Har_MM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aotemandadada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yoooooboom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fatboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sgtx13f35",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sliver9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NongSiNiYo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Red_leader111UL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PKFIEND",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WhiteOwlSmoker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dont_Cry_Bitc70",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LabsEnjoyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chadowmk2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "S-400",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lithos_Revenge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "landmark_ttv1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXjYYY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404NotFoundxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lonely-Rose",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NCSDSADAS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Awz_1028",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NAVI_Twj2xyh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-Chan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guABIS----imA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Josuke_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GEZIYI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyu-Colaer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun_ikunkun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XingYu-LuanSha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alpha-LAOTUZI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CasterArthers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "T-7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biubiubiuOvO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "goodNuanfeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "caihaha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris_Kyle_69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_LETME_COOK_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1NutReborn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUTAOCVC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XboXcn_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sishen-1001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vuxea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAOdi666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToplessBottom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Smileboy_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_SomeMan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RandomKilla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TingBai-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCCOOL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Libreation",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qianhuaZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CNxzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KK_XSDCGSD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YYZY-666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "White_TanK_ByC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H-Hero-CN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FixDCingNOW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CC-233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KilIa_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF_700",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NOLOV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aiwen1122",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CH-KILLA-05",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "boobc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuNaiNaiWoYa_04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris95n",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CappinProice",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Quesonimous",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sStew",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fly_Mike",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY-S1onw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KiitingZed_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sixty-percent",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "killyou_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oupaijun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "X-----MAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImYourNewDaddie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SSHNK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DarK_LighT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CaiCai_QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Andrewlbx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OuO_C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jinhuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huang527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DthangDaDemon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DD-yuki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "scav_lif3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "caosiwo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Strike-RA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xuweidog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mushroom333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hekkdr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuYa-Ashen-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Castielj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Davontay777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sleepyjoe18",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tkf15",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Glzddc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr2002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aFlying_KumSh0t",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUBLEMINT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qewrsdarte",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guolicheng314",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sugmaknaut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-God18",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKun_Ji-Twitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MingtianyiJiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ancestors_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch-Dwight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rc700",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chabaidao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "willbruce",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GiggaChad123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "b00b8oo8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChadRatGaming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LanSheJuZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoDFaTher_ALi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlanFaLao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WSLNM_NMSL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoveyouMeimei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Usecmynutssz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-God-of-Tarkov-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kiwiikiid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dy991lan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "selectiveA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Clu4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Elise03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GODV-V",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "X_ddddddd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SilenceeOnTop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GothJudyHopps",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Raid_King",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YHFTG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aichikugua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "THE-YONG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUOTOULUPING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YANGJIE1210",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "womengxin1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arclightt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Merakil",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tB_ISHER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun-000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhiyuman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SeeALoveA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fanershai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NongFu_Alpha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAXX-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBao001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_BeastBaby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tony001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GAGA-E",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XinRen_ZuoRenWu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CustomsCretin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IM_HIM_PART2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKPI-Aze5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OKB-CNM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "magebijiedamei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Big_HIPPO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kunniubi456",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOSS-Killa_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GDHaywardTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yum064-0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fffxhy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woody1107",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dagebiesuole_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AtagoMyBeloved",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KingJshhhh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaomaodiandian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr--HDJBWC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Delicious_WY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuangGuangTou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rick_roll_1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LupingjubaoTvT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoFen_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dy_Reventon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoldOcean",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ColumbianPure",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VITA-lemontea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-quzhongren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KaptainLex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouDezurvedIt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fatandshort",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "squilliam-fancy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ScavIntoMeDaddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wild-chickens",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PopCawnShrimp3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WaifuMakima",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "P00PSCOPE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealTwizz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kalibri_82",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YJS1222",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luoluowoaini",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAO1857",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CKLIE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KlightK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIesndl-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NeiKu-TaoTOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Web-1996",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOSHEN1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jendeukyr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dayingsong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ajiey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bouncetrack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaddixComin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Godfather-MrLuo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jr_BOSS_1001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LucianoTryHard",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bili-AkacolaZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kaonenmabi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Clown-Lime",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moroz_dul",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "The4rchitect",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHN-DP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cd-xl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beatURwife2023",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "__0w0__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYTV-WANZI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_-Fo11ower-_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZE1995",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ro_Kill_Choseng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaB4BY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rockhardt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_yi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EX-Massacre",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYIN-8xlboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BiLi_Elysia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dr_Lobotomy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yuan-Fang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sweetmyhome",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHILUODELUOYE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LongMagicWand",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "martinnnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DanJuaner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PEOCTAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-ABS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chigurhhh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Slovensina",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sinthetic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Akame_-R-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_Cam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LineJunkie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GrandPerdy13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gar_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moist-Toast",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "novinativ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlizzardISCute",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SanSan___",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ArtemNakata",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FrenchGuys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4399CCTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUYA-XIAODI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Napalm21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "a-yu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GlukharsCoomSoc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Miaoqiqi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilibili-TV-UGM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa_18cm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tianba-aikun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kontana",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ailou47",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BAITOUERNmDIE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yaosheguicai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blackyue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "buyaodawole",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bluedd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhangyuge12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Doom_Ruoyun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ICHDUICHNIX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEEHARV3Y0SWALD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "attack_OoO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AK-JY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WenYuOi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xuwenrou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_____________6B",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HAHAsixName",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shiyiyue2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sfddfsdf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lvw---scream",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-Light",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun-2Y6M",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yyds124",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ExPr0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikuncnmq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "18-GOD-XX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black-Jason",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoyundebaba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Goudelong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThuggaThugga",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Strohhut_Werner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GZYBB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yueyexiaomao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XalviX56",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hhhhddddaaaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MountainMan_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dagouba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "taimei2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShanZei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CrocusBaby36",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CheeeekiBreeki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ros1e",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "McDudu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mUzh111-RFG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AdeptusElite",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ushallowedmynut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Whoah",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shandong_Yao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeiTaoa315",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY__TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laohantuiche123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zed2000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "superbadman3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yangyongdeyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BaoZzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China_No1_Alley",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Derpnasty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheNutQween",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ClappUrButox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Happy--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chungwei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Motives",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIGBIGYOUNG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotSuspekt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nutndonttella",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iiTzFrank555",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "frHash",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThePacks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FatBoy91",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biepao1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YIKESHUZHI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EYZS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AbernethyIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SiliconValley",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kazziloc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BloodyNipps",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NS-nation",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wzzzzz_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WuYaZhuoFieJi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WiggleSimp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mounaqi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KanyeHasAPoint",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "636okj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AN_94",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BasilK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SquidSnipesTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C1oud_7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "krugerKRG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dont_killme_plz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QlllQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-JohnMacTavish-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BYF-JF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yonwen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "6nimuniu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEO_gugujiji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ruble10M9dollar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Threeeeeeex-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blezz_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ExtremeLowKey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN_Fning",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lterzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EscapefromBussi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RowdyTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "125_BigGuys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Starboy97",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FLAVOR-X",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY_Complainant",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GODLIKE_ONE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouZi_C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SeelpZzzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tomato27",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SemenDem0n",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TSJ-DAWEI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RobinsonW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Godofwarragnaro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PushaPizza",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LOVEU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Da-dui-zhang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YukiHana_Edwin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MayPaky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tgtfc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chaoren0000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oldsevenbro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WagnerYWN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperAngeles",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shirooo666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mechs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "renwuzai996",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIX_Ali",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlanginBBConYou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zdxyyds6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sxbk007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-SOJE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nopoisonnohusba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LB-888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stoRNs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Finn30",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CoolSuSu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ninengmiaowoma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YodieeGang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOOMFISTs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bendejo_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yilinbala",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_gohelp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fridgeyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Miraightnvt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIackwater",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kai_cenat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIMMYPRESSER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TBirdSweets",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biedawobei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustAMemer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIAOWODIAOMAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-CObP-zxc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Corinth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BignerdXD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HardCoreLettuce",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "layback_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VolatileVest96",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vBug",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yrrk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MICHAELMYERS13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "behepa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "powerZPK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXmt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlauBarschBueb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaSaOwO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImHydraT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiulconter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DanEletrosJaime",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZYY-WDNMD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Taigong_sai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jujubejubile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1818",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hzwytd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BrokenJohnny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SniperZ2024",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Laozu_kk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "loveYTZforever",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGe_Bie_ShaWo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QinGuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "----98cm----",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DJJ_DKa03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ActiveHalalmode",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CazaTangas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY_ChargerSRT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91-neko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XTQQQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wozhuizhuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FXM_JJKING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "moneykeeper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aikun003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OLDBRO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUOHU-XU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Spookiness",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Reckless_di",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DyingGame",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LY-XZPBK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yusmsm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yu-yan-yan-ran",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigMarsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CARBING_CCTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NOvva_sddv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wxone87",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ICU-TFY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cobra-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thurman_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BiliBili_Leo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kr-dog-mom-die",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Danekk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dasadas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-luck",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "43KANAYA_SLAY3R",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Predater2600",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jellyfish420",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daozai9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SteelyDrake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BogShlong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Iquest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "buffa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DiffUseVaseline",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHENQI39",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jojoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Prevails-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shot-bird",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Khaos_Shield",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KPRY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fokers-v",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lqgdab",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DFP-geng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "datousima",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Slayer-BOT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TwE1V-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pang666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYIFEISHE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MYYukino",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChinaNew_New_Be",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Glukha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NeilYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BilBil_baigei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shangcoco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OverEzTesticle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "monoreal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dagebiedawo5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MenstrualCycle3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin-wuliaoa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "paopao033",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "New-Botton",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "labsrat2004",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "buheshi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NA-DDZS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JKH123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xLeafx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "73v",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GrannyySlammer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EaterOfLoop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mountainlion66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BKBK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIG092",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Weirdo-SO-SO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Da_Ge_Z1_J1_Ren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Neko_nana",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Relativ_Gut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wo_Shi_PYY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Barran",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JinTianMeiSile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BBG-guodong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "draitan_TTW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Boofedonbozo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYXD-86",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4idan762",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XEFTDONE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RattyScav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XuanChen-WS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDNMD_4004",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nappppy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ItsTyGuy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xericx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CrazyAlien",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SILI885",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DIO-xinbai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PENGPENGDASB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "By_DaShuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XinyuanJiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Darenbudalian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jas0n_Statham",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fAllininlove",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AREUOK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CaptainBaxter_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoUYin_ANHAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Newtypedoki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeiJingGaiLiuZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sandaosi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kong-Cheng_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "James_Sun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MeiShaoNvv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "china_Peng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Saber0205",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PANTA0JUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NewerNick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KillaTagila2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Warang-eve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oh-_-My_god",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoLiya1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "queefmaster6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cseaver",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAPC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CJCOC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "v3online_TTV-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xzq111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Adolph_Nnt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Recollectioncun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bin-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YLG-dz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ruddian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UglyChingChang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yyixiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NakeSnake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DonGarlos",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "china-zyf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mobuhuishou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MMMMMMMMMMMMNM1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AnotherLife",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-DOBBYone-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yuaniiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Umbrakosett",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hopelesdufnek",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "coffe-001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "naizi7788",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ApeVisible",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kevkill87",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SirQuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HaesMK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DarnItJoshy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Coleritoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TickTackTo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bili-ABSNRL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AaoooooaA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dawei569",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KeithMaxwell",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SYSHA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yituodabiani",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JiNiaimei_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rokey_hermit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YUKI_WGS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QQQcaogen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rock__brick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZuoGeGe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBaoSMGB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TomatoDog_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ztttty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black-person",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tomato_Prince",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HanFather",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KinGht_BB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Y1shen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PSYCHO--KILLER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTC_NoMaster-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9YrsLovers",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Agera_R",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CPCWANSUI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "billybob001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RRUUCK-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Winh8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MiaChantal2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAlinli",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wimter_m",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Static-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTv_Harambe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiktoker420lol",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beasttacoman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lt2733",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DreamToes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LaXi--HaoYan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WizerdSleeve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2023huoji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wangzaixiaosusu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheSteak",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Wit-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sheturman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MATQVQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sadda7-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BBQ-QBB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Der_punisher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Umov",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imlegittho",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Major_Kai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sanqian-xiaobai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Error_4040",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gochugirl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Farmer-V-Britt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FutureFan25",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DirtySanchez04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "flcknyrmomsbean",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiiiizhu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NMBLzhangcao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gRAYRaT7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yuri456",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "33147",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KXY-LiuDaNa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HDY663",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fakesiki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oneshot97",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yunyi233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JUSTDIEAREADY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H3bBpHjMiX4kE4m",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-QingFengYa-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PSYISBAD69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1QoQ1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Savagexkillax",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KingOfWhateverr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RHY-HaoTian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shunny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MRCHENJY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yesbing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zeus___TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrMonkey1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Toft1337",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kingxiaorao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MyAdventure",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JackieChanLenis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dyxiaoxiaoyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DageBiedawo__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GarfioTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kokos___",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GrozaYs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sarizun-TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CYYLVZY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TBHHGJKDG-----",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bwitz423",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun1mango",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wddasb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kuaishou-TuTu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch-SYuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SSV_Sailer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "141_GuangKun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Folinic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "URDream",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jingongmen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bona_In_Ya_Eyes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wonima-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TV_Faygo_Orange",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alpella",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhengyizhifu333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BandoFPS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Doodlebob_10",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pyrik",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Can-ccy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yaxuan2333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Totrubber",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BoKti",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Officer_Edgar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYuTVBoskr_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lemon-CcccccccC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hxkami",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sukhoi_Tommy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxsirfishxxTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cercrection",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKiHiYoRi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Freedom-MY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91-HeiGe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vennnnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shuying30",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKA-JASONWU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wudibaolingshou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laoliu-niubi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shufflebaby6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Big_Mushroom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DokiDokiDo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TG-K1lla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Messi--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DongFengKuaiDi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MAKABAKAWA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NQ698-5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nickmaluts",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dontkillme998",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "darker___",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SEAL_SIX_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Crown--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fluomi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HBL_Along",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nicostatv-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sunqirui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ghostcookies",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Smallwieners",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUTSONLY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Superhaha0722",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shadow_SAMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oooooooo66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Awencai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "johnsonls333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HZ0001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PanTaQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KYyyT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GodsPlan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GOAT-86",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "crunchiey911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moneymakerr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liuliyese",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IamShaw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ComradeKysa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KOHOKPAJL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IstandToPlaY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Iamscared1337",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Listen_Cry",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhonghuo-hong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M0sin0nly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Martin5000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ErikZzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PVPERisAThinker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Taginiaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HKKF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nierwin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KilAllofU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arcline",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AlexPhilipe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JuiceWrld999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Villain456",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WGdawosiquanjia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-SVIPER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlackFeatherX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C1Ju87a-CCTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dawnjay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-GODUNCLE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NB-Old-black",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eveergarden",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttvSirRenegadez",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NISMOTTT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXHJS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Manson_Ling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoonSplash",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "limin6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rabbit-Bog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYINGLLD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kklao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gotuboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chenbaoToT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "floppaeater",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ClerEsport",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cxmilo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch_boys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DsRed-Yevin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KissZhi001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nmslnjtwcnm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-Xbaigei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiamu-01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "whiskys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZakarlOCE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "USECmyP33n",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIOJIO-QHY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Early_summer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-159",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gnoki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dinluane",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WoENiZuiLi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "khan_sultan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DGB_CuZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StellatedCoffee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "V2Jay_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DE3899",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "819kod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttACE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CO6P_LEXA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trunkmonkay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Try_loving_me__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "corpseplayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FloofDoggerSlat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "eXempted",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NanYuanKuRo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KingTyffe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Labs-K1ng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AxfTvT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shaild",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "apexg7man",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "veava",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhiyuanshouhu1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AstonMartin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LSP_NH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tozmygearbropls",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "clzclz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Running_128oVo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlackKnight_Ysw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FKFlaoliu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dyin-Hisae",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_CatMiMi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BILI--TTV--HUYA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-shawoluping",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ares_XinYiOo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "141TF-Ghost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIEKEI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ETF132",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Destroyittired",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NaoFu123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JayLivinn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jconn4545",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "808love",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaotian_66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JordanCarter_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MK-51",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hektors",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AightGotcha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Neneka0v0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "az_ss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Brideye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Caesar__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OdincustomrServ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "INEEDTRACKSUIT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dekeshi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fw_KaiG_dou_shu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NIMAFEIL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J0shua_Grahamtv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM-YangFaniiiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Elanna",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-ISR-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiuHuaQiang0913",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tkuaus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Losindios",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HaJeonwoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "glock-18_god",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CookTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Reasonurpain",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YA-YA-YA-YA-YA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "P5iholog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sir_JOHNWiCC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Losthope999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MeatTrainPsycho",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BTC-ErDan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YeShen-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ADeadGod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Honyon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SSSxipi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JiaoBieTing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MUMUCHUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EDG-GaoQiQiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Deran-peng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gst_Akoasm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FYTZDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACID-kunlanlan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Onely-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YUANHA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MatAwake369",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DR-FLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shining-_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Helmseye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XMSHUAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rokudo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Levich",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SB_USA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mayhem_TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKPI-Aze6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DDLDi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "silencetttt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShredManz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GKGKJK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "motielttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guttari1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NiRKoNG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "B0bby_Lee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dustbox_jp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LABS-Gucci",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kinda-Windy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shabidawo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN--666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YX-C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JackyJwJ-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr_Beloved_cat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "81tchtkf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suisui_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-LiTaiBai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CATHOLICISMM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qindynasty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SGT_Bakes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HelloHu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LazieLee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Creamyhole_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Greenplay-B0Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pinopio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Haksss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTVPangkakaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Guanxi__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Its_Giin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AresBeast",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wug1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TranquiL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KyJu-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trey_k48",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WOSHI96",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CPTTTB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Simon__Ghost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Patchworkg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zanjiaxk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Huya_mingfeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mztnql-QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sky_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HoongDou_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guniangbiepa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HJN1145",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhonghuabaozi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SKT-Feifan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUBU-YYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ASNS_OLWK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WenZe-LYB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hjy911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fam1lyguy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OPTlMlSTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhopnik",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Praise_the_sun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NT-SiRenBan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHENG--ZONG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nanyu-ly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF_9500",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JoeShmooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "975-huichhu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Soterioss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nbnbny",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NMDNJT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ML520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sweet_Jc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aizuosi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "666-6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY--WF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BoBoTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Inundate",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ssadawdqesadfss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EzePZz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "826-LaoLi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huasan798",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Albed0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MSG-JO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tamagotake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAOTle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZeroH00k",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GhostofPrather",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AA-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KF04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Billy141",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M_A_N_D_O",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZCH_hongyan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NorthSideGP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ggggtdr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHUJINKO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Duckyymomo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LISYOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NJTcnmmdb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ccccicccc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZusOnMid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SURTR_wife",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "apple-suger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LSP-JIJI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ajax_98",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LCHE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuYa-Cola",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Axin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Coffee-TTV666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuDaGuanZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NakanoMIKU11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "misakadie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoorDa5H",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Boombl1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZGMF-X10A",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOSSD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KaiKing666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thermda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H-O-M-I",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Seast103_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vascuence",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "happyfox-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yituodabianu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "socola",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PicriL-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaotZi2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HEY920",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "61ccc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Abelllalala",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RiffleZZZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wuhu-XiaoZhang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "100KmhAMGPeek",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QINGQINGZIJING0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "twin_twix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JinShan110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dripler_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ikun-ZGno1-sexy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lyon_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Peak_LJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GF9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheJager",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M4SOPMODIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThKingChain51",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SQBR-ZuHe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Peefer12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aethos",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HoverCraft",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cangtiaorualanq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wer2w3etwtg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NetuSpoofera",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HYtvMiru",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FSGGSHHH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IWSYMOP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PraporsStepBro-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oRexr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "c4boom1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOUL_SYM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "APEX_MOMO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ThatWhiteGuy97",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C101K",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DuangPAPA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QFQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoyao-huangge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOSS-SB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wintermelonreal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "8----------O",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Judy0686",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "viemery",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xizi1597",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NendoC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AST_9300",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYb-Xanxus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "007--TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1st_dijia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_-Fol1ower-_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yijujiushayigea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yasospooferom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TomJ24",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIGdonkey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IFNH8THISGAME22",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Uncle-Takov",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sugma22",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Brat_Bartosiaka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Version-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D0U-TM-G0D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Love_You_Baby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Missing1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fouluomi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yilinlula",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-91",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "A-Zhezhezhe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gold_001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oldirty_PLS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JAY1985",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-BBQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ProudBMWOwner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-Caishu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOS_mutou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zZ-GniJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BieDaWoNiuZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotADorito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cupid_L1n",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RattingIsMyFav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OLD_00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-CoolieWw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cplover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Midea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CoDeXX-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GUAGEBIESHAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIANBA-LLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ghillie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BrownPaperKanna",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ForgedInFire",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ESCTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZJYZYY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShoutGunCN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LEDX-xiaobai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GouJang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HK416_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "caixugua777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SteppyRecKs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suowomeima666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cc--bie-da-wo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GB-FangGuoWo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ScroogeMcDuck_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IMBADASL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHAgp10",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cosmicfish",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KILLA-11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zzzEZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Manbaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACE-668",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wugui999cm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MASTERxSPLINTER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "spicytame69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bhwbdw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K9966KKL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Violence--boy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "baobaobashl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biegaowoleaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "345etret",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "neerger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nightmare-k2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DiskoBrisko_095",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QD-004",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OldManTrippie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chenbaoTnT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91Bigtrash_TTv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Simon0Xu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wwdfgdawd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bai_Hong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bobross123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dogperson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FEIQIAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BackToUrStache",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "scp409",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Strangemusic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XHANE-TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKpi-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cazenove-X",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shlef",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "llliiillliiilll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DALEKTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-MOFAZIDAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DeadKatQwQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GHOSTofTrkov",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GlionzzZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Promise_Vison",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Abrok",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaddyOf2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TigzLaw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yupengyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cai-Ye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nice_Fancych6n",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "banananananna",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huohuaaidoufu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kej_xd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bennardhan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoreNeedGeeBar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NanXI_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Karlty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "syxs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RicardoM_Lu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eniac1942",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eeuy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lingao_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jankosa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beichenyijiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zlovell",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CarpeDiem_OvO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShengShengbuxin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FL6969",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "freethetopg----",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JunJun0910",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kd-9999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HALO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MERCEDESsssss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JimyTheCultist",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GotTheTenRollin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QiZhuKanLv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "345ab",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Meliodas-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WorickArcangelo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAPAPIGGY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MyBaoJian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Galvin74",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lva1gapo1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Donthitme-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ritianze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Georgm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D2-AANMC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Goudeiong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ART_TYOM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zombieslayer225",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CrenshawHoeless",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "s1adki1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gopvpnoob",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bfbfnb1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChrisMoris",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SrPichuleta",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOxOOOOOOOO2892",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Axel_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qlever_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huliches",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "miyakich",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Timmi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhuwuk666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YtChinaNumbaWan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustFriendly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MIRUI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RACHEL-GARDNER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suiicideboys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DearOne",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HONGDA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xingcha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "For_You",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0sanqian0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "STASR12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ktal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBaoOuO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoYin_wangz18cm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_TTV_xixi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KING_Xy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOT-LAODIAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Flash-AOteman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "milk1111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aaron_mcrotch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404ProGamerr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "John--W1ck",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hhbei_ty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luo__Chen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FOV-908",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIAQING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wh1t3zZ-white",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM-Tianba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kebxbremover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiapdakelqdadaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOBRYYZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Demon101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LKone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jx_Cn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woodkid512",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Clearbay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-18Dog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Morax",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-R1se",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Archer-c",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zz211",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QAQlemontea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hokum-BAS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RUS_MrKing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZZZZZZZh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EJH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rakuzan_94",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LeftBehindBoss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bailaiwang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGeBieDaWo5555",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "keisu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LasagnaEFT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTARXX_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Whiteboy-High",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShortcutToEXFIL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Piiiiinnacle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeadOnTheBeach",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ManicWkeyNo1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zdarknes92",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Machu101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CookedTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YINGZI299",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liquorQAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yuhengtadie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DAIGERAOMING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoqiqiqi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shawojubao11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Backset",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AxiaoJia-Kun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zhong_Guo_Ren99",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TJR-LaoYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aloyskald",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "401_MaoMaoGeeee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ArikXXzm168Cc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NOOB--Orange",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Singlekun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LaoWang_66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wdtaming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-XI-JIN-PING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yilidafuyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "game-cc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTVAllBadDays",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SerpentPrince",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KIERliset",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BiliTV-PiKaQiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sureven_TD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DudeWhereMyScar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0h-yeah",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-199",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EinRad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKA_BlackHand",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ner0drop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DZF-PiPi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Liberal-weixun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huangxldiedie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lvxrmuch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxingchen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-Twisstzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jinchuanchuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laityes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JK-Lucky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BURAK97",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FDC-Sankuner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-GuChu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HKNXMIA_1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LJ-laohei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tarkeStyle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Air12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "samsbabybonfire",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JesusLovesBBC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "G6_scmiwr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Dobbyf-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "babuin228",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HipHopPlop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DogEatMyFace",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tarkov-killaxjp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "APONYT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouEatAoLiGei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dream2233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1IililL1Ili1Tli",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIEDA_DOUGEINI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaolu7788",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gst_yunfeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NOTWORK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ajduwsj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "matubaman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pu-tao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kakinely",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wmjxyz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GaoQiQiang-SH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gao1234",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Neko-O-o",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShuaiShuaiXII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kluxn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "m5355",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laobiao-6666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yc-FeiMao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ic0n6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TCC_Eve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bollebob",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Suggy45",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aicaomao1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VeritasIsAngry",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUNTUGU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYB-JOHNWICK005",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Monesy0-0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Icrouchinresrve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hzn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "maming2244",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShengXia_Battle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pdpSixGod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "R_six_FuZE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "guagefangguowo5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Husoldier369",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "m-l-mo-li",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zaGussy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CATMISS-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daddychilllll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alex_OVO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fatgoose",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GWDAX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOxcOOOOOOO7899",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouTube_TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CROW-07",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trueshadow1995",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "snegovnik",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nishatayeshisi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_lao6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DK2-007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "white6689",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xi_jin__Ping_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sneksnake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black_Iron",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Islide4Von",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nixatar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WRAITH2157",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "climbx3145",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RatratMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SGLR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "she1ters",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Marvin_Ma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BEAR-SBCAOJIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiangling02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Butter_Fly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lexburner1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nyarlathotep_d",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "X-I-A-O-Y-U",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Myouren_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BL_9W5YYDS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaYu-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SAVANNAKHET",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fa-Tiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tutuge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LionelEleven",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Claude",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "txanquanweishi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MakiEdits-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CNMT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AK8848",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZDDisBEST",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKKyYDSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "21MPLE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shadow_Kill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0iDsiX666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIXME--Lanzai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LT3rdLEGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-XiaoLing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mzcynb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuYa-tongtong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "F_u_c_k_You",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xYKYx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YungSparky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuangXiaoXiong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GKD258",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jind224kill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "a-anion",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "G_gou_siquanjia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttvxhypeinferno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mas0chist",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wjdfq1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-SJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouY-PZY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91-qingxianshen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "busymyth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "insanescav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Havyx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xx_king_yiyo_xX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "white114",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lylsb1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404-GuiGui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Praetor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DontPeakMeBro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hentai_Horst187",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DLSHS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kasanova69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DEADPOOL____",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImperialHao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GUOHAONAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wanwan-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IlllllIlllIIIll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DFjmx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MieShaJun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xuricncn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Coffee-coke",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-HOOXI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bascdes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Smoky646",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "horace_x-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dengta-dengta",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianTianZuiBang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YYolanda_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BaDao-L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KFHLSJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOYO_RATTAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TOMATOJJJJJJJJJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OPEN_YOUR_MOUTH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOOOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yicessee414",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOMIJI-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wulaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WEIXIAO6213",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nast-Ats",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Kidd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FM-LiaoTian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "o-_-3D-_-O",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lijiaxdd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "treeserpent",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mobo-010",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wuzhiling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QQwYkM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hell-Envoy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sea_Bear",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ekksen200",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sudibit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuvMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUKMADEK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhcyourfather",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nowaywayyyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hejianzhi0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlayWipeLobby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Acheng-003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ddddddew",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LLLbaobiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AK-DOTING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gentleman_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wiggleAtmebruh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Youdiedlolggez",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dontshootTT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CAT_SM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Try_loving_me_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hitcount",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "strngerping",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChiyuGuyuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fazaia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ATM_wushuang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Charmaze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "master_km",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShowMark233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thesae",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qzzzc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "First-Oldsix",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYu-Siwei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KING-Leoric",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_YoBz_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MyLittle_Pony",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JoeBanMa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN-JY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nodyoung",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ONITYAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TM_B",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NJ-pj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blackashe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DAGEBIESUOWOQQL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhi_sha_gua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Breachnclear",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACCPC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Scavenger-Jolly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ucoe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AkbarIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uiui--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luo_-Chen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HayBad22",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Atleastyoutr1ed",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GTX690_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gabriellaer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hhhh777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhi111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cruise-FF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dayangan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AC_Pushkin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JINITAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYINQIGE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kingJab-Enjoyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FencesPlayToy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZTMHW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mista_Funghi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Stuit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xbox-off",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EvillikeIzBack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dungeonmaster92",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYu-Doinb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Threeeeeex-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "7EERF0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MarXXXman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OFFLUCAX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wecdffc1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arthuru",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aspectsss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrCookieCreamJP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2021-xjz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sqc1223",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiangliu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Maybach-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaBaBa_996",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MortalFive",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BlingDrLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_PiShen_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperbCSK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JingXin_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-DDOne",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xumubei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "flashdog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gua-sha-wo-sima",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ghostone_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CTRAXXXX_Twitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dont_JudgeMeSir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404__TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ultra_Seven",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NewTheEND",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cartz30",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wwzsssyyh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CNFourZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "baby77",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOOGAA_SOOGAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wdnmd-cc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1wws1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MACCV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Turbo443",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Car998",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Crystal_887",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PUB-CL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SR------25",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "twistyD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fireshoot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RyanGoslingREAL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "canyousecondsme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shay-Kairos",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AIKUN001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imdie_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AndrewsNutRag",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuThree",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kingerkinger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RusEqualIdot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DF_Zcccc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rooster00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oper_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smok420kush",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ztztztztzt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiang-xiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chucknator49",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BenditBanan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gx-gqq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuickSilverSa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PoopOrPee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LizzoCrusher",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "f30blood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Airfrid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "one1111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "waadawda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Castjee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FUR-JZL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "REdlxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TFW-Kalami",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IGNB666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HK-MadCattt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RicardoCX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiuHuaQiang-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hollek-itty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhuke432",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Georgemercer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fate-Excalibur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BLEACH0000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ECHO_XM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Derek893",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lky110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thkaka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FleetingDou1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "love-xiaocao520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "navyseal87",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bakao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Clydesdale_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "duqiuyue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "2ndScreenTitty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WIDECOME",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "polioi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Goodbyey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SK8-hao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Robyn_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_FatLord_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "luping_JUBAOGB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOMEPNE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKAWM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wucneng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAAAAAAAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoNeWoLFFIE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SM---------susu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bys-jianghu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tcmfd40",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheTaxeEvader",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "02QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pups",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "j18god-ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "STimePir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Atacha-M",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dingdang_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shoq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiongdagagei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheRealClifford",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cn-3666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DooHeeDumDin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DontReportMePlz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "baranoeb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PotSmoker420",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eyal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XS550W",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cheseaa141",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ilikewoman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "7iYueHn25",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Killalovly",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UWUQAQQWQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lllin7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHOGUNPLUS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yuxuan101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rui-Hachimura",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tian520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rwanda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WANG115",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hulatanggg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Morality_D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoKIYYY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lanxuan0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gy0za",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaCongMing001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NJT4BM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxxkysxxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "newplaye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QAQ3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lv99_Heehoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CYCLECAKE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoXiaoQwQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Anita",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Melkchocolade",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SizhuQ3Q",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chaoliudanshen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Temberr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UPUPXO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xigua_2023",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StarvingAfr1can",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGe-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lim_Big_Fish",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lfy123abc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-ThreeeX-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustAscavXP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTG-HU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Everfade",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-1080Ti",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wofdres",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "king-111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Time-Lover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jbogey69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoverDoze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "str1-ker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wosshihaoren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D2Sped",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1OFTHEM2HP-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FakeZamu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UhOhPaulyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TarkovedTimmy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lilush1411",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kellarijellari",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FasanDruecker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fatehr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jacky_1234",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "you-007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "baiye1023",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYB-JWICK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOZHU555",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TuDou-O-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HanWl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kivensmile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kevinwu123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PLA-9567",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "His_Sugar_Pappy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-BluExvi-Orz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hashiramaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FZ-PIAOYE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pat_nxa_1003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mi-tiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404GOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BEIMINGYESE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Knight_King",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "surenya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fiinr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PiPixia_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LarsMcBars",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LIDASHAO001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhang1lei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "biezhaowodage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Obunga_Slayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BareChi_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JUST--HH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sugrrr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "raolehaizi8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NoCash4EOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tang-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "simpleLL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigBananaInYou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_tryBnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VViktorson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin-mowang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MY0033",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotFury",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alexzer01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Livong_Sama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAONIAO995",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CLEMENTMICH426",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tianba-77God",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SchwarzGeister",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gage_3101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Marmurka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cn-zzt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mattqx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheFluffy7171",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lokip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mmdd_1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alan666huang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAPAJONPLAY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BobbyBallDangle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Scrap_Collector",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bai_xian_sheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTV-TaZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nulenge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "L1uckybear",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiaoheizi666-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "__AP_20",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-LaJiWang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KHC_HK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-xiaoxiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Butteryx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FATHEROFDESTINY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huabai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin-lianggod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Storm_Spiritttt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K1LLERS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pro_1985",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liuyang2696",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Enrgkid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Brainrain",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-HeiMao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lolololloollolo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Channel9News",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ifhviolsh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Althars001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dy_xiaoxiaren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GGBBC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RouYa_Nam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twistzz_ez",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ll_FROST_ll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Whoisyoudady",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Not_Knight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-JINGSHA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIEDAGEGE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Along_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MEstping",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bqby-PUBGAK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SpecOps21",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN-gansiwo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "L--L--L--L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MartinLee11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CustomsMaster",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-LaFeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Emperor_HG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "anydesk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DONGPENGTEYING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Morpheus3557",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "B_komhate_TTV_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Walter_123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MLGB02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QAQsi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AjIFiX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nikangge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kkluge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H322",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-ISR-NItro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BangMeHardDaddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ILUVWIGGLING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PowerA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBao-04",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YingYingI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TikokFB_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "niuniuya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shendinzhen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Brench",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "00mowei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yu8419",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoRan317",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dagebieshawo789",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KS-FANCHEN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PCY0101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Darlang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BYD-Arthur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YaLiJieJie_TTv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mirror_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Willy0506",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kogege",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kac1213",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AksKitten",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuDuan1eoPlus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeiShaJiuJuBao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BatuOz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilingual",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-ImANoob-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fury5f",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_PaperPlanes_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeartK_W",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Z-H-A-N-G",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "229_Shijiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zjyzc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Er-KGlt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SQXT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HowDoTheyKnowTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LABS_YSW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jianjian111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ksxiaocong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYuTV-Gubei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZHAORITIAN0012",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF-LAOTANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VandOjeTTv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CactusJack_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SniperPanda911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gunter030",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuaBisbsb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Abcy-Jack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J-hopee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Foooooo0ox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BelgianDevil",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ratkinggg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DENGLIZIDIANSHI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zzJesteR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ohayani",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zoukai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperLemonHaze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "russiansDIE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OoZAQoO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Prince-fly1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "24kchunshuai1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouZi-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vcdvz100",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lapua_enjoyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-selan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "needkip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fjinjin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UT-M855A1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImperiaI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-__-6-__-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PangTouYu-DYTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sureler",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lab-lianxisheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BE3RUS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dontshutme1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dabo7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Modernia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dao8zai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WELLDONE1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HP-998",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DisabledGiraffe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ary_Yy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LKHGJH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIANBAGUANGBO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-LuLu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sweet-I",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Brokentaco_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pfletch-fletch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lajilao111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cucklover",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Necro_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qing_yue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY_6O6II8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ef1sz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daiPudding",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dingzhen5dai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yaobuyaozudui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Johnkdz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ni-ma-si-l",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jonnan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RookieRotkiv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NuanYangA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dr-Tt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "poopEater101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeKIAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MeepMeep06",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Atemptation",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BieKanWoLe-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiWoYuanDdian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "usec_geybar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GGP-SPA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zeretz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DailyCheesing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ro_Alert",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fr0styFr33z3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uDie007_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kunkun3000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mic_Casio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iSaidBadNade",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ssdolk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hubert-xin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CharlesJUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Billywang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YY-KeLe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhaolidd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mrnoman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZTAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DiZai_HolyXie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Laoyunice",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bustyplaya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "misakimikoto",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MingJiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "798_QAQ-jav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KongKong0v0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "watch_my_six",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K1NGB0B",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LLLLL777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pmarusama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alvenp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cheeyeo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JPES-Jeron",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCCNM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pero_coffo1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "secluded3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JK_Reshalaoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BBQ003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIMDASD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rabbit10",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ka23so3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PanZdenda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "liyunlongtuanzh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fuk_YorMM-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xdenlz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lu-Pin-Ju-Baoxi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_LAWLESS_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AreYouM4dBro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Get_RattedLOL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FOREX_twitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TongtongTAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHINA-LN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Intendant--KK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "seraious",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AquaStyle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HereForTheLulz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MIAOMIAO520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lskdjf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KTK-Harzey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Towah",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "REiders",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QUANTUM69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zStealthyz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LoudVisions",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuackyMcDucky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nisbsbufu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "coke-king",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BLACK-SHEEP666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chenzhan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ace_taffy1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "toyotacai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iamyourdad169",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NnGer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hxd_GaoQiSheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigFishhhh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-GGT-GK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zeussss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAOMAHAHA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CNS-YANYU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chaoshou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Q1n9Fen9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiuyuesf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "minicatty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZZLLLBBB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Charlie_BeCOOL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hwuena",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "robber",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Snackpackhoe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bBaA233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oilcye7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Istanbul_ZYACE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NooB_Hervy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CRYY233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "puppetbrown",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mammoth14",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BunnyQxO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nattdogV6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aaxulei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kenlin122",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUPERTREE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JonnyL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "losted",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ApacheAH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_King__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Frank-AS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChannelType",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dennicrat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LWyzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sofedup",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LemoSuger",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UUUUWWUUUU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris310",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Deputy-Taco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCG-qingshan005",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zultanv2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shadow0Hunter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KebabSvarvaren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DemonKiddi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Drooge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttv-Lang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OGxFaceOff",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigBubbaJohnson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MajorsMask",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuangChongYang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nanach1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SLYFEVER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FengHuaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Pastoral-Cat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Leexying",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-dragon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ANTHONYTANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dzh123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fightcat2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fov75dos",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yekk_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zkzzh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mrby33",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "141-Tony",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gao-qi-qiangTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "claer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYin-AYan-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sktone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BroccoliFox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oNWeI01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "syx-8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch_386",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TaoHaHa-Baby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIU_E_Ren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BackThoTheLOBBy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VentureH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BunnyGirIUwU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nabroken",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wangrh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jose123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Feeleenenock",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TikTok-XiaoFan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bilibili-Baige",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToasteyMalone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bili-opxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9931_POI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huya-baiwuye",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KappaSecured",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zero_D1D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SebaE98",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qare",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ceylon1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sheluvsdoordash",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrEnvert",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "levax3688",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AbernethyII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jaerson",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZiKBW-526",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K2_Empire_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Faxt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "getficked",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TseMihaylo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JUMPSHOOTING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TommysTaint",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DIU_MIC-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JoeNutz14",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "maoduo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "V-280",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OystersAttack",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hershadow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1MINUS1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "madingii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mduisiwang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BYPTO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CS_521Kill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shawosiquanjia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Panther127",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiezilaila1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MonsterS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NativeTexan7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Steven_CCC_TtV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HXY1992",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "___5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "diweiboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OXO-yonghen3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAOHEIR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aksjd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Be_Kev",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIXME_LENGTONG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HK416_JAGER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Flyer4hard",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OriVox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yun0801",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Butcher9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABSilla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VoidTraitor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UwU-Okiem",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHIMAKERTOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "youngbareaTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mea-NHOTBOT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vanessa1998_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhangge555",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YINUOKING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KNN23",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZYZlifestyle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Serphine11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XuLiYaNvHanfei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiao_HuHu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CJR-Weixiao1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wlit_ling",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CyberST",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TimmTimmTimmy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LimitedR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xMortalGod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Killa_Tagila",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JoshRosh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Piratich",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GGoliat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WickedTracer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheXDgamer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hammerfest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BackTo1988",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaohaolixianji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Praga-ETS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RatchyOnlineTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bili_sagoyueyue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NJT-DieMom",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kaysim",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FHYF0523",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "amaoya-001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAKEOFFFFFFFFFF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDNMD_L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XMpiupiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bonny_Zone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-Gost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShotsFired-biu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bob_xutj",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laotianla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OLD_6TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eryx_Z",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyu-Etrnal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "caoooooooooooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GanYuuu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lalalallala49",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShadowfaxXD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "asasas11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACD-123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "N-I-C-E",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "angel____",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MioMioMioMioMio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mangokushh59",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bullet_HX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Hope-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qinqinni",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TechlightWorker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXXXXxDDDD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Somebody_FPS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTv_xNephh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laoxinba441",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ienjoytoast",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VssChinese",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EnjoyTheLootSir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YYolin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mengxinaaaaaaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Factsuals",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laozhang-cn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imjakob",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PaiDaXing_gg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Stray228",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeaverLVR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kav0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "raulillo1324",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woo99",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sexyscav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "boyzaliar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ElaEla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bobbywitdattool",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WoShiPianzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Knight_J",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wudiyaya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NingZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DieserEineDude",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "panyam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bearishy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SMNJT-YANTANGER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luv_z",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FengHaoGe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Maka_Baka_o",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "funny--mud--pee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KennyS--TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FBI-CZgentleman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black_Hole",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dont__killme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sadbody",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aaa00",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YeMmM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jaychouzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MyFlower",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DDFLY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JOBtea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SAKE225",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ReserveLife",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qingyu5210",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAO--01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "X1AOba1gg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tys530",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NekoNekoOAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laoxianyua",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhuanyelaoliu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Liwuhen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "newboiiiis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mati_dzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "emoxiaoze",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TikTok-joker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OutlawWinner",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jian-la_ji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Faxire_Ace",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN--bisheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StupidFnMistake",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SepaEuVo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WrstWaletWarior",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "evosbackbitxch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChinesePLAWOOT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_Hunterbox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZhouZhouoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SAF_DeeZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CetoEvo0206",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pitudito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dablam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xMrCaramel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "3sX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nuked_2_4_7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouDiedDfuqNoob",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Silicon_Red",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YourChadDaddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZADARK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stew-iwnl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YQK111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TK-AGV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiang--Xi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "monkeydad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yicixing-scout",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SuperMrKevin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NanSha-Avis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitter-Scherma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KUKUDENIU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JiuZhi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Du_Switch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tianba_OO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "roubao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Prodtlei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WOF-WANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIREfireFIR3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AWei777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lord_KGB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sakura-Asahi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nidedadielaile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "layne---syt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bilibi4574",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wimpy1346",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sau123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lingyexuano",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0951-QQQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_xiangcai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NonEodToKappa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zephea",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Quadsterski",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "timetravel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M870Demon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "W-Y-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "warwolffirst",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KiKIDD-06",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rolita",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "amigo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chaso0308",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "G-Spliffyn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ddidllggman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YIPJUNJUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SimplyConsent",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JohnCena1993",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "compraman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOYUXiongjiujiU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "L-19",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Uncle_Takov",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BGLM_Durex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1080PKL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToRoTiMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RODORIGESU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EBALDORIK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LokTarOgar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Avory",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NizzmoeTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WoDeQuZhangDad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "N4A--BAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBaoDaWo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chopper_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ha0Z1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Biglane33",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OR-JIUJIU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Guanpangzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MYW-666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "K1no_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXTentacion-xx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "assspower",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asaki-sama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY_LaoShouYi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoXiaoTv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wareswan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "isayamachihaya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PLA-XiaoYuMi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "moyanGg",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mitchel15",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CunBaBa0003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "njt--sb78",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZeroToKappaATT2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-aixiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXDYDUG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tvPaulyParmesan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ansexi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SCS-JE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KumaBearKuma",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XxxxiaoCcc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ruslaman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ECO9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LD_US",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoquan13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GL_357",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yanwan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bigding",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-ChongQ--YHX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BinLaden1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dsg-521",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "waxrs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arnonym_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hondouble",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Luck1457DISC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaDaXing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tra1il",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LXPRRD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Threeeeeeeeex-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SosaYarak",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tupachill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yekuza",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chinagoodboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DdotOnTop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LigutEmperor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WinterIsC0ming_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RedOpz_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Foced2Wipe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DAGE-raomingQWQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mikaylala",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dogfight-360",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pxwangfang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "eleven1118",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDNMDXJH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "leonyyyu-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eteruria",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Y-0-0-0-Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chaihao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dtld",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YY-qiaqiaqia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lilisee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HEIYANTING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuTing99",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D_D",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FBI-THE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Az_Real",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ronin_ben",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DJLBOSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KS_LIU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xianyupao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WYYDSW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "---budangren---",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AA-BB-CC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YiGeGe_er",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LGD-yixiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-AIC-01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Akoasama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TMF_IT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lafoi518",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DirtyRattt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Harryberd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rockf1sh",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nicopicco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUO---BOSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "R-CAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoqi6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "im-mohe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WHO-HE-IS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VanillaFox",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gghostz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhan666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AmazonGroceries",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOUZIYAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MiLuDeFangfang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smile_everyday",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zbcc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "add2buy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealIronMike255",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "43sdsfd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qeric",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gosutoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Savgon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "junOjp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OKKID",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FlashlightNerf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nate6god",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoChuBaBa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PRC_Sakura02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKUN1128",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OGBruno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NoPip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "manintheshadow1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qwq--141",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ooo_Rudy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M61WayzToDie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeCarfulISawY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XX-king",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pullup",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cozamoa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_PornHub",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WLG120",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DonaldTrvmp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "forever20",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dori1246",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SOMEBODY-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "U_Got_Tarkoved_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIX-ME-DOUDI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HUO6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "W3lchyy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wusuodiaowei666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ipeeonwmn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LA-JI-XUAN-SHOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QUSTYOMS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oldsixpro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImAsexyfurry",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SamCooke",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gotcha_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_Vermeer_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN--lao6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tamaer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9only_prada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dong_kong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QingJiuYa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Goudelon9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Last_TheiaX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Post_Malone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alane",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imyoursweetbaby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuaGe--BieShaWo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Greater-Ivan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CanadianMitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-January-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BorpaSmoke",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dingledonger225",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ISTAND2PLAYGAME",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FluffyMello",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustHideMyBag",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tax-collecter66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mysticsdad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "skadgvalk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hvur",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Trailbrazer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImUpD-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fei-zhai-9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-qianhe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qi1An0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NeueZiel",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Liouseen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Thtreex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SSQJefe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chopin-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoxCver",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cpdd-zhiyin-G",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "serendipity-zy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JOKER-kaibai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XerooCool",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "taragoempie69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zamby",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Superbaby_jojo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BL_keke123GG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DYCHESHEN----XL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YUXIFANG1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SDHSJAIIWYUSHDR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAAAmmmmmmmmmmm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hunkovski",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bigrigbrooks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PengYW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-thejiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Canwkissforever",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dn-77",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "starsummer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WYXINSUI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili_Elysla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MonkeyrDGarp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lucery-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BALENCIAGA666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bigdevilguest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DremondCurry",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Timsir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bulun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sektor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StiiizyTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WankOvic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Foolove",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ReaperGetsTop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fen_Dan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrM91",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_MONSTER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FIX-owo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-ABS-1002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KF02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0711_ZW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_skeet_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Voice_Of_Reason",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shadowdragonz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ezizzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MakkoTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SlimyGurgle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Makoto_Rika_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yongshen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "roninboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GZY499",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChinaTeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IgnorantH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wolfofsky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LAObiao7878",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kissxxb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SUPERSIXGOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NoTwooo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAAmusic",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrWUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HaoZhai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LYFED",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ICRC_Mr_Sandman",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuffySux",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lybsnow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black-healer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China_llovoll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mango_T",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lllbmzxhb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DASHABI1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Batmtt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BearlyLegalUWU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuckyKeeba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "spartanwarrior5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN171_1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chidaoluoli",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jigsawyerop",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CBK_REAPER_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AUD1-upingjuba0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "S1mplies",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Le2x911vp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ztrixi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoZheMaLiYa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Black-Survivors",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LuPingJuBao-xxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tomoko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToadPhdTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ExileAviation",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "91TV-LD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "President_Rat_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zdje",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiAOHAnnn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ares_Tian888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AOTEMANDAWANG1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealIronMike261",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "getBetterxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOxOOOO8289",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FatherMill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FLIPNEROO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nword-destroyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uhuhhuhhuhsiusu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cnmb999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Focalz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KopftuchTreter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DDDJT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "summybill",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aNovelVirus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xialia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CYMING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Stmin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wula---",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yanchuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mango0815",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AshEn-ONE-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "youarescoundreI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AmericanHunter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "18god-qiyi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hendanirenyixia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DLT_1DJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EteTriesTarkov",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KoK66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tkf_2020",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiao37",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "---XJW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9eWuW_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "niubi777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-DOGLR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyu__GUAICH1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Virukisu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Roguelike0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kumquat_KQT_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FeelinYou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jeffrey-001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Demmoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yuki-TP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOM-YG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WZ-tian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fuyaosss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gucci_6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lovas22",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyinxy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lao_Yezi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DIYxdy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NonTerPlusUltra",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Departure6324",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wa1ter_White",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "paodaodi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Your_Jesus_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zz_007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AworexSUB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheReaper707",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nikanwodiaoma__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LabsABS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kevin6969",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wdemomo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "beautiful-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAPA-RUSSIA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pang1238",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Meawjijung",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigMarshmallow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tiddiesNbeer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wocaonima333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LLLppf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hhhhhh123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TeamBG-YPF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jsjmqq159",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NisiQingFeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kingShen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cangci",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LRTstrong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KING-ZEYI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_XiaoTang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxxdygod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iiTzzGabeTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiquidSkyz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "painfulmemories",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxNanamixx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FiveGoDs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Trotters-TV-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zzz-QianYe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bana1a",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN1008",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "quanquan777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Devil1999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kkvcl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LVNDKAKOVIC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "youziaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mslis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MelodyMeows",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZhongGuoDui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bobonihao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHENQIAO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-WarLord-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUDENS_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "x3Dean",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IKissMen305",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stankratv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Reggiearmy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ASD-485",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "icccccu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SneerCat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kongbai-baitang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jsli",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Liaping59",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CTMD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CJR-Weixiao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kiuuuu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mamkin-Shot-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Emperor2541",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Old-man-808",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dad_Is_That_YOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nikitosiq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "solodude45",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ramboOkan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Monkeyness",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChiyuXyuan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaddyIsHere69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeefStrokinOff",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Croupier",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WenYui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FSFA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Anloga",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kisslcq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "banned_Haaland",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "iTzWolf7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "laowang40",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cover_me_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wsmengxin08",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SILLYHAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "3kthunder",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JAY2012",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fury1016",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiaoguaiguaiya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAULOrz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DiaoDe111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Komorebi_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FLandreeee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ForKa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuChenbuaidaren",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wo--long",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ImaginePlayin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ConorMcKedr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AiKunCCTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Finnward",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Sehun-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RainbowSLee-2tp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOUYINXIANCAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StankieRat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "whosyour",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tokitou_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr-Y-Autumn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chuaimenxiaozi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AaCBC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Clowns_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "saxibulidayo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Losin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NIJITA-LAOSI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoreHoesThnU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIANGCHANGTAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Phat-Bussy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DeepInYourGuts",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sparragus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "S1nco666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LUNAN007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "W-douyin-shouyi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bielaizhanbian1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Krystalol",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Spanksu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ma-Ka-BaKa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JOOJAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NotSakMan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xpollo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vampie_MTZ_925",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "420BakerJones",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DeathByVanilla8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ukr_Sedoy_TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CallmeDad2023",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOUuncle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WAIER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "momgavemeitch",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woqilddawd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DQ521",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ACACDBD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LKF34",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YUMING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OOO-OO7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PAP-SnowLeopard",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vitaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaoNian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LH-Unknown",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QINGFENGYANYU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAIXINV587",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HerpesFreeSnc89",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Paris-13",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lucas666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bufujiugan777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zhang2hao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SpedUnknown",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChedderRat4269",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YourStepUncle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoheirng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuestEnjoyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TianBa-Liuergou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF--WXX800",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GodofEealth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "D3vi0us_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BUYAODAWO9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "J0SH47",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "moqueefa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV_FIGG_HER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xXKillJoy420Xx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GOSSSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WhyBeeWaiBii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouyuTV_longmao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fpskuza",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Color7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tomei_TK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woshi-lvwan-DH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aDSDFWEG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MK-TowerChrish",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TarkovSeXY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "koalaaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MLGB03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mosin-Koy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-LED-X-O",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Laddious",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mernhard",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alteroal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MyMainHasKappaL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCALT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RE_MRZR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dexisdagoat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChiYu0001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SQ1S",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SupressedThicc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Detonator-orang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lao22AABB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TKF-LAOWANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CuRSHon_you",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YOUWILLLOVEME",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MYNovice",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tarddd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LSP-Hentai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MeteorEvo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alikes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BeiJing-Wu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KFC-V-Me50",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SCP--------682",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JohConstantine",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China-DEFT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oldcat-Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yorhano",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Romieplayz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "a888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MileZero86",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IcedCoffee1012",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EVANGELION-J",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zijiangsa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eft_DE-Ebay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HK_WOJJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "no-biubiu-wo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MonodelBCIAzul",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chuzhongtian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BoofyArtifact",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiojio3000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiao_Xin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOS-tyrant",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SACA_diyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Revantein",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Big-Pipe--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaochenlaile",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arvinn51_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StickyW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CiaGlowie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KEVINCC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Greasy_Dabs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Joneya_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xifsniper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yo-gangy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "oldsix-8088",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChubbedUp_TV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rebao_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OLD_STUMP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BattyB0ys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jollyOleChap",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "heckyeah250",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "029-SPC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LyIoAi1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JKushPurple",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "haigonggong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jesuslovesy0u",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KYG-XQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DR9625",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "niumachang-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YISHIBA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yuliangaaa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tirpitz520",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Temptationi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SRZU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TASHUO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GAOGAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MisterGiggles",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MIK-JiuMeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dragon_killer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "love_icarus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "han-ba-ba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ajie888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Acg_XiaoManYao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sky_found",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaddyBevis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-Zhazhahui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DetectiveIce",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TimmysSlayer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tw_qilin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dy_918Spyder",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TigzMadeMeDoIt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qiu-gan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mechsdemon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "N1K0SIE55",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CIC_7747",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-Hickey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikun-SoRa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Moonlight-ET",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "excid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fupasteve08",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaddoxMaxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-Lei2004",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ceelow_GG_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xy-cctv-14",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nooo_Pls",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OMARTHEGREAT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SemenSoakedMoms",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xxxWDxxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qiu-tou-yan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FrankHotDog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JeuDeVidangeSal",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YangGuang55",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Golova-chlen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HOTDOGWATER117",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vernie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gilgameshi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IloveDrugs999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sonicbrrrr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "traydator_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PackOfScrews",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "60PercentNoGood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Amireuxw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4AM_GodV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Montifer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN-NIUB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "killa-101",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ReBH1OJM1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mengjuechen2365",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "is_old_Six",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zeed76",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIAOSHOUsir",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Danceswithwolve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "China1996",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DAMI-Cute",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAOJ133",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Supaa_SLICK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kojuro-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PeanutSW_01",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I-AM-Kuuga",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dingzhen-RELX5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AnMuXi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ASDDFFDGGHHHJHJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ayyy-HD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LetItHappen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pig-star",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cany-bb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "uhaveaskillisue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SiMaNiJiTa4000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-boos-09",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RICARDO123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr-9527-XJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EstoKaD0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "plsnotakeloot",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-68",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "molun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dr-ZJS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kakabobo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BG-GuYiRan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "anewday",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "purple-Coolieqw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "realBUNNYB0YwU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vitekZavodskoy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DAVVIIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TIME__0VER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "God5",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TonySeiSei_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GetWrekd42O69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DragonSlayer333",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mlodySzrimp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kxxx70",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-Jinfu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AzedWaild",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MuYi010",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stizzyhiccups",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustChillinMkay",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AGG--NF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UEG-MOSS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KillaFunEnjoyer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SWFT_OH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YESYESohno",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cas1llas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YukinoZz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "james009",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaHong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FeiTianJu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChenWuDi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wangz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yel_GG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Janseng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAOLEQWQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QIangPo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sha-wo-lu-ping",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LastJuanMao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dsr_BreakupGuru",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dazui-_-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "King-Langzi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "resurrectio-ZJ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pkrkmkk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Olsovsky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HecticsKICK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NI88Z",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "7eWuW_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "EGirlLana",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "absqq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY_Towing_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WOSINLAOB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "balabalaAA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "900hPFStiancai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PepeVelhoG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gregary-O",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyin-xiaoxia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BLADE_sPeedi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JJ_BLG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KLDevil",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hazelnut__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hx96",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zerolovesasians",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HD-ChuanZhang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Life-MovieJun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QYJ233",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OMGoing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ARVEN_93_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GuuuuuuXXa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "libingjie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NNQA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "For_You_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "taimei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DoorknobYT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chino12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NulledNoodle",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chenxi999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Men_Ke_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GGZGCCTPG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JointFull",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4ix_nbIx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PGone_217",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tea_Time",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "impotidn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pass6yMe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yihanchangyouba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shouzhang77",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Attack3315",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Only-Delt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "587",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ogcamillusdro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ninja-King",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qiafan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gaugebiedawo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "saolaoda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TikTok-NaiNai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hxd-6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr_niuX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dyu_DAYKKING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NI_TM_CHOU_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nicccco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NEEGMAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Azaimm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "caihonghonghong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "998frf8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cx-330_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ResidentRat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shier123",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Rour_7s",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woyouhuilaile1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HBL_XIAOMAGE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chris-514",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wumomo_QI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Auzzi_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bie-da-wo--",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bieda_zuorenwu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GOBULIN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ko1op",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaiwaSTEEZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SquirtCobainxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JayTeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XanaxxTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mymummyhitsme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aaiage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "martyrxx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NNIU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tessiv71",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404-SHAOAI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChuiChuiZhen6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "arab3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigMikeovski",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "762PSGZH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RusherZz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Landmurk-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "s1rKenji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCCPLY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GigaLior",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CornerJunkie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MengJing588",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qingtangA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AgentCSX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-CoCo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aunt-lingkw",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHIJIAO11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tr1pl3Tak3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "STAR_SWARSCHIK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KDBB-camper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zzzxxc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aacao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Good_xiaomuniu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TAfgf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lscoco",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WarfarinFF0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BadStreamSniper",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Leaf-night",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LadysMan155mm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Senpai_LWF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LXLXbest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTVWrize",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SaggyBrain",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hunter_to_Goon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ayiyi---009",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aixles",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WantToMakeMoney",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "qieerxi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "test4oe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eq_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BUYAOMIAOWO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gonton",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "panghu921",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XGS-HeTunGui",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lupin-Jubao-Sb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tiaoziii-QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TASKFORCE404",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WDTJMM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "flirgamer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "---nizuzong---",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SLQR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ezyclipzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CQ-Pengyuyan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Elssssp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZieabtwTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KaiXin-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Awesone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiuBang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RealIronMike257",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Louisvution",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Andydadada",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mako4649",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY-LaiJin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gandalf0420",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mommymilkas69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKDBD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Xiaan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ukaukaburuka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PANDATTNB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M87NiuBuLa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CELESTELEW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "4SKIN-ENJOYER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "myinternetsobad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KSK-Moonlight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shanaxya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_KaiGuaSiMa_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yqshiki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "75th_bb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bachler95",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "3DBD111",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HGVHG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wxswxswxs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "six_china",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hanged",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ares_YYJX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "goodloveyou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Grea-Bear",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigCarrot77",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ScouseHasbulla",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CZDKK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CocaCola_TTV_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Comfortab1e",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dekux",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GreenEggsAndHam",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "chimchow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CIVET002",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "callmedally",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0951-XXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIANYULALA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HHan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaDou_TV__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili_XiaoYin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YouBai1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QING-WU-SHI-WO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pat1ent-Xu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lllilllllilllll",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Illegalized",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoShou0127",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dontshawo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UwU-BigHoiden",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lanvia",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TaoZai777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "the-1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "18God-YeYuoo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AsdWhite",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-KneeCapper-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTVSDFFFQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hallapenio",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0X00DEADCODE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "W4fty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SURVErr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Imdeadrip",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "James-Bond007",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Untrossss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KPblCEHOK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XiaoYaoABC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AuroraLily",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kareseven",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili_MDY_Feiju",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoFec",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "downthru",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sorrymaker66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "229-Cyclone",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SKINGLOU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GYQ-YP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PvtSpecklenut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zed-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QMSAE31",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_m0NESY_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gasai_Yuno_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Scorpion666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QQQQQQianyEEEEE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AJiao302",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ghs_Mpanda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UwU-An1zz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ET-happaytwa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Drax_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XXXTAND",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nyeey",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "huangguoguo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoodbyeloveR",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yanXUAN_9",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asmodeus_K",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jiangxiang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DrGlizzzy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZS1000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "niubiTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XIAO-PengYou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bilibili-King",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tripleb567",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "sunsetfu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WSND_sendie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aboveallthings",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wohuiwushu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FreeBomb_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nishiguabi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CraoticEffect",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bo-Sai-Dong",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FireTheKing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ANNISS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gao-qi-qiang-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "smurf150",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ztzt-bili",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jjGOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AKPOP",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alkashh_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "colouryang1984",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "igotaway",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BattyInGs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Debuff",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BingusVonSusIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Beton34",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GaoQiQiang66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "6B44",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AXrong-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Douyin-8iiy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HW7777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "E-PiPi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Washed__TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ecoer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOSS8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LameGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ELxZEUSx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UN-XLB-OVO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Spltian",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChenFeng_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JJohn-Wick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Monster8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "nirenerhao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KevinW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hxzpy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IDontPlayM4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "X_TA_C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shirley112",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VortexARC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xinfu202",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GHGHGD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HeulLeise",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lonelysoulr",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "an-yu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YELLOW-MAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "buhaowan11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaoya--TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYuTV-010",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGeBieShaWoYao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jser-qwq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Niu-Zhan-Shi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cruzzieee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Your____Mother",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AnQuanZhuShou-Y",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JAX-999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GirthBrooks6",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LaoYou3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SCAV-175",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Genshin-Impact-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IRON1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zjy_QAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WeaponsChick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dont-Cry-Bitc19",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XDJohn11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "raidermp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BGOM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LiuMangTouZi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bolis_Bolgan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHRIMS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LeonMachere",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "-Hydrargyrum-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JDSDOD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oprahwind",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ge--fangguowoba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HY-Maple",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "maxabllieters",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LWMQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bin8177",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WANGX113",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LISHIJIU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H0lmeS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aurora12K",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CH_hsl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aTourGuide",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CUILONGSHAN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LIUCHUANJIA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTV-WSTSXF",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "imUmar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "simadongxicnm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "8MG8",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sunshine-Buddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shourei-N",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS_Mac",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "yoyou_hu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCAV-LAOsiji",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SupBlack-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Goat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GUGULETHUMHLUNG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "seed-s",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "StaR_Streaks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Ima12yoldboy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JMLRX11",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tea_by",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "foot-L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gagagagao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gluttony99",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IAMPPT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mashu711",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pppfn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "35XXXV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GetTappedBuddy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Percachu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gegewu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "9988F",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Handsomeguy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jyosang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mishkinis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WanderingEarth",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YCheeksDivider",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-ttv-tvb-TVB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CAIBI-004",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "tarkov4eat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "urhat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wresck",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TimmyOnTheLoose",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigSpoingaloing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZapDarK3D-TH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WCNM999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Scav_Vest",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Symposiums",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JaegersF33tPics",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DR-MG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "V_Q",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UncleLesterDon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CCTV-1001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lvyuefeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kazami_Yuika",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dilraba_3X4",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sunbeaming",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nuseryshooter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mr-QiaoLiMa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AWEIbangying",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "A5ukA-02",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheChadChad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RUOshui-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BigBearBag",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SK1DMRK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Aslonely",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHAwoBijubao3",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "haotemexiaozi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PrezA7X",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HJJ-ZS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChicoIsALive",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MihairBelicoff",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RNM1999",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mengqiya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ManOfTheRIZZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bili-Banana",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MashiroAsaki",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BOS_LONERS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Romilda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CaoNiMaGua008",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pedddz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Eznuts",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABS-KingKai-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IcyReckless12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Dreaming-cxledx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OvO-xiakalaka",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fox_Rabbit",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SaTxN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SLOBBYROBBY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twitch-ShiGuang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404DanielWu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "jielaoda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QQL-BIEDAWO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ttv-77taps",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tabood",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JahpueIIIII",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DumaDistractDD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WhatsaSmurf",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kremento",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NurScav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BATSOUPEATER",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DY-hahaaha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lllllllllttttt",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "famerrat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheFearlessRat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "py_110",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OdinEyes",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "---Ikun-----",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SummerLEDX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bigdumpings",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aichitangtang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xiaopangwei",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FDHY-NiuYeYe_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ApuSen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woifshen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "suibian-888",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YuiLING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "About2Inches",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_Browny_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hestural",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "maidang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FreshToKappa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "F1veF1veOpen",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wulikunkun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KaGuLav",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MS_KK",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Paika",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Garrettssn",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ECfraggery",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "donshootfortask",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DxExplo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "vexzidor",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ALexanxder",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "scj666",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VolpRR1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "osumabintopG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gal_FazeClan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Slank54",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BalcanGG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stephencurry30L",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "haimiansang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "UnclePeng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AAAMING",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hua---Sha",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SleepyMoe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GAOQISHENG141",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MENGXINGOO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Palpitate",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "xinjiangwuyanzu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Drama_cc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KarsiyTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KenYYTB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sercksa_TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chadarvosky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LimitFaker",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "momlob",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JcAcy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChuckusRuckus",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TGUmbreon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CN_HeavyBlue",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "latinastepbro",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TsticulrTorsion",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "gmd420",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Akamusictory",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TTV-Slipeee",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fangguorenwuzai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "A-lvelvelve",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NaoDa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "wudixiaobaiwang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Crying-sky",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Crazy-boy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Papabiu-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yu-Zai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YZx1anyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "douyuTV-Ghost",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dingding__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KR_FingerInMyS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WolfWarriorsWG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "pepega7777",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Serendip1ty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KristenAmo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "shipingjubao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SHI-SHU-TU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Yang_daodao",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tianba-18Goda",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lllllllllll----",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DDDDDJT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Mengxing-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "5K_Timmy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKpi_Lucot2",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JustHaveFunPlzz",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TanSheng",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "l1221",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrBiD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MaimaiNya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KAMEKAMEKAMEtyu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BINGLINGROU",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "God_V",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "stone0014",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CHINESET3CHNO1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "M4ST3R_FA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "QuestGrind",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_Mutou",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "damn-i-dced",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "C_chengxin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Annabell_DVD",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "L177_C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dibaituzi-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JungleMonkey69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ShakiRAMAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VQQQQV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Tegredyfarms7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "H1ttcu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "OIO96I6OS8S",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DRZ400SM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "15-12gggytyyGYS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PmanSA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vakrat",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bojkata69",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaGeBieShaw0000",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "scp137",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JIUJIUTANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "youngSimp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "balebale",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Miraitowa_0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lei_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "URGarbage",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shinobi_003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "lovingstar",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HK416-C",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TNT_PAOPAO",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "XaVierElfi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Oshtsna_ttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Alexthelazy",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Toolatela",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "soldire",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DT-vers08",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MatterBabyFace",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AFC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheChampIsHere",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hamburgler03",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MorganFremanttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GG-kingYA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Hei-LN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AXBH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "I9527I",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "daerduotut",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Anthony_Starks",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "261shahin",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AVG_MTX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Zaciekyczowiek",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToastyGoatsTtv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YFLGFXBL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ChadThundacqck",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "mr_hadookiedon",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TheFactoryMain",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ugh______okokok",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin_JiangJun",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dy-Caicaiz1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Lu-Ping-Ju-Ba0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Crazy-PLA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KKW-1126",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PTSD-HOBOKNIGHT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gig_9527",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ItzTorahTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Pishas",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "S3xy_B1rd",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DaHuZiiiiii",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ToadWitTheLoad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HOLxDeMonicKing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "me-love-me",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HammaTime",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "COOCOI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FFF-ad",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YKZ-YT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "VeggieDahmer",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "proofington",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HealMekillme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CNLILZHANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MR_DU513",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0BaBaYaGa0",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PyroSss_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RushQAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DK-CUN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Devour66",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SANITARA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ASeiSei-Scout",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MailmanPatient",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BUU-LaoJiu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "798-ZuShiYe",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Nephtys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "dkdkdk",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Massacre-CL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YAZZZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ocmmc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BIGFIRE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SDFSDG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DEADPOOL__",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fumengya",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cmdlinge",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IpkEVRY5minsTTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "InfectedHive003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YGpipi",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "heavenxxq",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DDD-JT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YSzhenshuai",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "_-77",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RE-HuyaTV-miruu",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BINBAGGAGE",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NINJA_LONG_GG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zzzSpring_harp",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "zCJF7",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DUSTM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jade-Dynasty",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MOWANGYANG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RatyHunter",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Kelys",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Klotis",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MZZXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "just-302",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Q1ngChan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Blazeking420",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "KermitHasAFrag",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ikec",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Wipegodjohnwick",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Akiba_BIJINMaid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ABScustomerSrvc",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CKBABYY",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "aoqpoa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fayme",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "0215-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Twoyearsold12",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "rodent_man",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "bieqifuwoQAQ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "kl-BYFLTBs",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Arifrid",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Cyanate",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CringXieRuo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ColumbiaNo2-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DLS-DRZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "PiggyKnight",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DOGEsama",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "DouYin-THH-YTH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AJin-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "1TapOfHappyness",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "John_BBC",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TikTok-Joker_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TOTMT",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ebonypony",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "IIIIIIlllllll1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "langyawoaini",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "WorrunARG",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "cccyl",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Asily",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Shallow_Creek97",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "ZZNMSL",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RhettisSB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fiveking",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LONGYU1",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "YinZiJie",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Askst",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NerfNikita",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GoblinmanKIAttv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "404Killa",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "TOXIN0911",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Chistosito",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "fiveperiods",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Gargamels",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "njtsbsm",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "CrypticDex",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "HuangLiQun-T",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MUMUM",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Axios_",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "LouisWOW",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "AYA-DOKI",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "teangtang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MambaBamba",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Erliangnb",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Va1arM0rghu1is",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MrOne4308",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "whoisdog",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SteveHarvey2021",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Juira",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Vidgod",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RUSNHUSH",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Jellyfish5466",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "hotdogtv",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MoLuoA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "koalexko",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "RELAXXXXX",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "headeyezss",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Sherlock1003",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Seven-Eleven",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "First-TTV",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "FanHuaYanSan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Knee_Grow",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "SANLIAKMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fairy-",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BuYaoDunWo",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "NIJITAMEIMAMA",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "GM001",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "MISTYDAWN",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Fleeeezing",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "blnzx",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "JB_Sa1a_JB",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "111LS",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "BEIZE-zzZ",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Qiutianquan",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "woshipangpang",
+    date_banned: "2023-03-25",
+    type: "cheater"
+  },
+  {
+    name: "Bengxiakalaka",
+    date_banned: "2023-03-25",
+    type: "cheater"
   }
-];
+]
 
 export default data;

@@ -44,7 +44,8 @@ export default function Home(props : { banned_users : banned_player_type[], coun
     "2023-03-06",
     "2023-03-11",
     "2023-03-18",
-    "2023-03-21"
+    "2023-03-21",
+    "2023-03-25"
   ];
 
   const type_filters = [
@@ -103,7 +104,7 @@ export default function Home(props : { banned_users : banned_player_type[], coun
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="https://fav.farm/💩" />
       </Head>
-      <main className={styles.main}>
+      <main id="search"  className={styles.main}>
         <div className={styles.header}>
           <h1 className={styles.heading}>TARKOV BAN TRACKER</h1>
           <p>This website is not affiliated with Battlestate Games</p>
@@ -131,10 +132,10 @@ export default function Home(props : { banned_users : banned_player_type[], coun
           </div>
         </div>
         { isLoading && (<div className={styles['loader-container']}><div className={styles.loader}></div></div>) }
-        <div className={styles.grid}>
+        <div id="view" className={styles.grid}>
           { bannedUsers && bannedUsers.length > 0 ? bannedUsers.map( (banned_user, index) => <Dogtag key={`${banned_user.name}-${index}`} banned_player={banned_user} />) : '' }
         </div>
-        <div className={styles.sidebar}>
+        <div id="about" className={styles.sidebar}>
           <div className={styles.card}>
             <h2>About</h2>
             <p>You've probably seen the tweets from Battlestate Games naming and shaming banned users.</p>
@@ -147,7 +148,7 @@ export default function Home(props : { banned_users : banned_player_type[], coun
             <p><strong>Why bother making this?</strong><br />- Got bored waiting for players to run into me on Interchange whilst I grind out chumming, so I'm sitting in bushes slinging some dirty code.</p>
             <p><strong>The filtering can be janky?</strong><br />- It's just you, probably just a skill issue.</p>
             <p><strong>It's not very mobile friendly!</strong><br />- I don't really care too much, its functional.</p>
-            <p><strong>Something not working?</strong><br />- You can try and drop an issue in the <a href="">discord</a>, if it's a big enough problem I'll fix it.</p>
+            <p><strong>Something not working?</strong><br />- You can try and drop an issue in the <a href="https://bit.ly/40IzT3c">discord</a>, if it's a big enough problem I'll fix it.</p>
           </div>
           <div className={styles.card}>
             <h2>Roadmap*</h2>
@@ -162,6 +163,21 @@ export default function Home(props : { banned_users : banned_player_type[], coun
           </div>
         </div>
       </main>
+      <div className={styles.mobileNavigation}>
+        <div>
+          <a href="#search">
+          Filter
+          </a>
+          </div>
+        <div><a href="#view">
+          View
+          </a>
+          </div>
+        <div><a href="#about">
+          About
+          </a>
+          </div>
+      </div>
     </>
   )
 }
