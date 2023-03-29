@@ -87,6 +87,7 @@ body {
   overflow-x: hidden;
   font-family: "Bender", sans-serif;
   min-height: 100vh;
+  color: #fff;
 }
 
 body {
@@ -106,6 +107,7 @@ a {
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
+    color: #fff;
   }
 }
 
